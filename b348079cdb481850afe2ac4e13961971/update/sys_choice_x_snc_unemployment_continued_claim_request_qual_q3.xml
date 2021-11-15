@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="qual_q3" table="x_snc_unemployment_continued_claim_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>qual_q3</element>
+            <name>x_snc_unemployment_continued_claim_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2020-04-30 23:54:05</sys_created_on>
+            <sys_id>55d8ea34db2858103763d8c75e961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>qual_q3</sys_name>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_choice_x_snc_unemployment_continued_claim_request_qual_q3</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2020-04-30 23:54:05</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>qual_q3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_snc_unemployment_continued_claim_request</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2020-04-30 23:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2c82a34db2858103763d8c75e96195f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2020-04-30 23:54:21</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>qual_q3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_snc_unemployment_continued_claim_request</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2020-04-30 23:54:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2dd82a34db2858103763d8c75e9619ba</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2020-04-30 23:54:33</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

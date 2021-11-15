@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="dcef471cdb881850afe2ac4e13961976" sys_domain="global" table="x_snc_unemployment_unemployment" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecef471cdb881850afe2ac4e139619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_unemployment" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">dcef471cdb881850afe2ac4e13961976</sys_ui_form>
+            <sys_ui_section caption="Citizen Information" display_value="Citizen Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">ecef471cdb881850afe2ac4e13961998</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-05 23:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6de379b4db04d850afe2ac4e139619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_unemployment" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">dcef471cdb881850afe2ac4e13961976</sys_ui_form>
+            <sys_ui_section caption="Employer Detail" display_value="Employer Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">51e379b4db04d850afe2ac4e139619ac</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-05 23:31:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-05 23:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65e379b4db04d850afe2ac4e139619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_unemployment" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">dcef471cdb881850afe2ac4e13961976</sys_ui_form>
+            <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-05 23:31:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_unemployment_unemployment</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dcef471cdb881850afe2ac4e13961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_unemployment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_form_sections_dcef471cdb881850afe2ac4e13961976</sys_update_name>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

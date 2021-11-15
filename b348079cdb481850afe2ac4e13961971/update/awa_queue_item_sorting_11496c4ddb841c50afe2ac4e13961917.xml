@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="awa_queue_item_sorting">
+    <awa_queue_item_sorting action="INSERT_OR_UPDATE">
+        <field>sys_created_on</field>
+        <order>1000</order>
+        <queue display_value="Unemployment Claims">53292c4ddb841c50afe2ac4e139619af</queue>
+        <sort_direction>ascending</sort_direction>
+        <sys_class_name>awa_queue_item_sorting</sys_class_name>
+        <sys_created_by>carol.rintamaa</sys_created_by>
+        <sys_created_on>2020-04-06 12:43:51</sys_created_on>
+        <sys_id>11496c4ddb841c50afe2ac4e13961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_created_on</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>awa_queue_item_sorting_11496c4ddb841c50afe2ac4e13961917</sys_update_name>
+        <sys_updated_by>carol.rintamaa</sys_updated_by>
+        <sys_updated_on>2020-04-06 12:43:51</sys_updated_on>
+    </awa_queue_item_sorting>
+</record_update>

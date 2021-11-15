@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Citizen Information" section_id="29c171f0db04d850afe2ac4e13961948" sys_domain="global" table="x_snc_unemployment_unemployment" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>consumer</element>
+            <position>0</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-07 20:06:13</sys_created_on>
+            <sys_id>8f185719db80dc50afe2ac4e13961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Citizen Information" display_value="Citizen Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">29c171f0db04d850afe2ac4e13961948</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-07 20:06:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unemployment_was_a_result_of_covid_19</element>
+            <position>1</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-07 20:06:13</sys_created_on>
+            <sys_id>07185719db80dc50afe2ac4e13961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Citizen Information" display_value="Citizen Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">29c171f0db04d850afe2ac4e13961948</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-07 20:06:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-07 20:06:13</sys_created_on>
+            <sys_id>8b185719db80dc50afe2ac4e13961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Citizen Information" display_value="Citizen Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">29c171f0db04d850afe2ac4e13961948</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-07 20:06:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>application_period</element>
+            <position>3</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-07 20:06:13</sys_created_on>
+            <sys_id>03185719db80dc50afe2ac4e13961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Citizen Information" display_value="Citizen Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">29c171f0db04d850afe2ac4e13961948</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-07 20:06:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>4</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-07 20:06:13</sys_created_on>
+            <sys_id>87185719db80dc50afe2ac4e13961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Citizen Information" display_value="Citizen Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">29c171f0db04d850afe2ac4e13961948</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-07 20:06:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Citizen Information</caption>
+            <header>false</header>
+            <name>x_snc_unemployment_unemployment</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-05 23:22:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29c171f0db04d850afe2ac4e13961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_unemployment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_section_29c171f0db04d850afe2ac4e13961948</sys_update_name>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-05 23:22:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">267f23b5dbd30010afe2ac4e1396197c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>carol.rintamaa</sys_created_by>
+        <sys_created_on>2020-05-01 16:31:35</sys_created_on>
+        <sys_id>b10d4241db609490aeb456f9dc9619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.sn_customerservice.consumer_agent</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_security_acl display_value="x_snc_unemployment_payments">340d4241db609490aeb456f9dc961939</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b10d4241db609490aeb456f9dc9619a7</sys_update_name>
+        <sys_updated_by>carol.rintamaa</sys_updated_by>
+        <sys_updated_on>2020-05-01 16:31:35</sys_updated_on>
+        <sys_user_role display_value="sn_customerservice.consumer_agent" name="sn_customerservice.consumer_agent">b2638ae3c303120095ccd02422d3ae55</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

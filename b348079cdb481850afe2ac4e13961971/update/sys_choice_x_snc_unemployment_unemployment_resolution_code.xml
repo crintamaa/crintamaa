@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="resolution_code" table="x_snc_unemployment_unemployment" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>resolution_code</element>
+            <name>x_snc_unemployment_unemployment</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-13 01:35:15</sys_created_on>
+            <sys_id>bf535643dbcc1010aeb456f9dc961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>resolution_code</sys_name>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_choice_x_snc_unemployment_unemployment_resolution_code</sys_update_name>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-13 01:35:15</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Resolved First Call</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-13 01:35:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37535643dbcc1010aeb456f9dc961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-13 01:35:15</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solved – Workaround provided based on open PRB</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-13 01:35:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3535643dbcc1010aeb456f9dc96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-13 01:35:15</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solved by Customer</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-13 01:35:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48635643dbcc1010aeb456f9dc961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-13 01:35:16</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inconclusive – Out of scope</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-13 01:35:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c631a43dbcc1010aeb456f9dc961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-13 01:35:16</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inconclusive – No workaround</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-13 01:35:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04631a43dbcc1010aeb456f9dc961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-13 01:35:16</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Duplicate Issue</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-13 01:35:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8631a43dbcc1010aeb456f9dc96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-13 01:35:16</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Voided/Canceled</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-13 01:35:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80631a43dbcc1010aeb456f9dc961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-13 01:35:16</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>application processed</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-13 01:35:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48631a43dbcc1010aeb456f9dc961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-13 01:35:16</sys_updated_on>
+            <value>application processed</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

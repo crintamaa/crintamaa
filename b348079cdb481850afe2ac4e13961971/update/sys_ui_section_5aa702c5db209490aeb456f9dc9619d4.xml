@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Job Search Evidence" section_id="5aa702c5db209490aeb456f9dc9619d4" sys_domain="global" table="x_snc_unemployment_payments" version="3" view="continued_claim_request">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company_name</element>
+            <position>0</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-05-01 16:07:38</sys_created_on>
+            <sys_id>daa702c5db209490aeb456f9dc9619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Search Evidence" display_value="Job Search Evidence" name="x_snc_unemployment_payments" sys_domain="global" view="605316b0dba458103763d8c75e96195b">5aa702c5db209490aeb456f9dc9619d4</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_person</element>
+            <position>1</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-05-01 16:07:38</sys_created_on>
+            <sys_id>52a702c5db209490aeb456f9dc9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Search Evidence" display_value="Job Search Evidence" name="x_snc_unemployment_payments" sys_domain="global" view="605316b0dba458103763d8c75e96195b">5aa702c5db209490aeb456f9dc9619d4</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-05-01 16:07:38</sys_created_on>
+            <sys_id>d6a702c5db209490aeb456f9dc9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Search Evidence" display_value="Job Search Evidence" name="x_snc_unemployment_payments" sys_domain="global" view="605316b0dba458103763d8c75e96195b">5aa702c5db209490aeb456f9dc9619d4</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>search_date</element>
+            <position>3</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-05-01 16:07:38</sys_created_on>
+            <sys_id>5ea702c5db209490aeb456f9dc9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Search Evidence" display_value="Job Search Evidence" name="x_snc_unemployment_payments" sys_domain="global" view="605316b0dba458103763d8c75e96195b">5aa702c5db209490aeb456f9dc9619d4</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-05-01 16:07:38</sys_created_on>
+            <sys_id>d2a702c5db209490aeb456f9dc9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Search Evidence" display_value="Job Search Evidence" name="x_snc_unemployment_payments" sys_domain="global" view="605316b0dba458103763d8c75e96195b">5aa702c5db209490aeb456f9dc9619d4</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>qual_q1</element>
+            <position>5</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-05-01 16:07:38</sys_created_on>
+            <sys_id>5aa702c5db209490aeb456f9dc9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Search Evidence" display_value="Job Search Evidence" name="x_snc_unemployment_payments" sys_domain="global" view="605316b0dba458103763d8c75e96195b">5aa702c5db209490aeb456f9dc9619d4</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>qual_q2</element>
+            <position>6</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-05-01 16:07:38</sys_created_on>
+            <sys_id>dea702c5db209490aeb456f9dc9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Search Evidence" display_value="Job Search Evidence" name="x_snc_unemployment_payments" sys_domain="global" view="605316b0dba458103763d8c75e96195b">5aa702c5db209490aeb456f9dc9619d4</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>qual_q3</element>
+            <position>7</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-05-01 16:07:38</sys_created_on>
+            <sys_id>56a702c5db209490aeb456f9dc9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Search Evidence" display_value="Job Search Evidence" name="x_snc_unemployment_payments" sys_domain="global" view="605316b0dba458103763d8c75e96195b">5aa702c5db209490aeb456f9dc9619d4</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Job Search Evidence</caption>
+            <header>false</header>
+            <name>x_snc_unemployment_payments</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-05-01 16:07:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5aa702c5db209490aeb456f9dc9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_payments</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_section_5aa702c5db209490aeb456f9dc9619d4</sys_update_name>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="continued claim request" name="continued_claim_request">605316b0dba458103763d8c75e96195b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
