@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_pisn_multiform_sp_instance">
+    <x_pisn_multiform_sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <instructions><![CDATA[Please use the &#34;Open in platform&#34; link from the hamburger menu on this dialog to configure this widget.]]></instructions>
+        <order>1</order>
+        <progression_method>full</progression_method>
+        <record/>
+        <roles>x_snc_unemployment.citizen,x_snc_unemployment.deo agent</roles>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">3bc07570db04d850afe2ac4e139619d8</sp_column>
+        <sp_widget display_value="Multiform">52da025fdb29d300d19b468b3a961947</sp_widget>
+        <success_page display_value="csm_ticket">csm_ticket</success_page>
+        <sys_class_name>x_pisn_multiform_sp_instance</sys_class_name>
+        <sys_created_by>carol.rintamaa</sys_created_by>
+        <sys_created_on>2020-04-05 23:18:13</sys_created_on>
+        <sys_id>80e07570db04d850afe2ac4e139619dc</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>x_pisn_multiform_sp_instance_80e07570db04d850afe2ac4e139619dc</sys_update_name>
+        <sys_updated_by>carol.rintamaa</sys_updated_by>
+        <sys_updated_on>2020-04-06 16:38:26</sys_updated_on>
+        <table>x_snc_unemployment_unemployment</table>
+        <title/>
+        <url/>
+        <view display_value="Default" name="default">30174876cb811200aa871831794c9cc4</view>
+        <widget_parameters/>
+    </x_pisn_multiform_sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=80e07570db04d850afe2ac4e139619dc"/>
+</record_update>
