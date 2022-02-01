@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Cases">c40fb16e5304130084acddeeff7b12a1</category>
+        <columns>consumer,case,short_description,contact_type,state,priority,assigned_to,sys_updated_on</columns>
+        <condition table="x_snc_unemployment_unemployment">state=18^EQ<item display_value="Awaiting Info" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="18"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <groups/>
+        <list_attributes/>
+        <order>2</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>carol.rintamaa</sys_created_by>
+        <sys_created_on>2020-04-13 02:44:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df33aa8bdb005010aeb456f9dc9619fb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Unemployment Claims Awaiting Info</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_aw_list_df33aa8bdb005010aeb456f9dc9619fb</sys_update_name>
+        <sys_updated_by>carol.rintamaa</sys_updated_by>
+        <sys_updated_on>2020-05-07 17:21:29</sys_updated_on>
+        <table>x_snc_unemployment_unemployment</table>
+        <title>Unemployment Claims Awaiting Info</title>
+        <user/>
+        <workspace display_value="Agent Workspace">7b24ceae5304130084acddeeff7b12a3</workspace>
+    </sys_aw_list>
+</record_update>

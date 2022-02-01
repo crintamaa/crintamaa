@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_whoisappealing" table="x_snc_unemployment_appeals" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_whoisappealing</element>
+            <name>x_snc_unemployment_appeals</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-29 18:41:45</sys_created_on>
+            <sys_id>82f7e06887bc855005fd63583cbb3594</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_whoisappealing</sys_name>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_choice_x_snc_unemployment_appeals_u_whoisappealing</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-29 18:41:45</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_whoisappealing</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employer</label>
+            <language>en</language>
+            <name>x_snc_unemployment_appeals</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-29 18:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4af7e06887bc855005fd63583cbb3593</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-29 18:41:45</sys_updated_on>
+            <value>employer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_whoisappealing</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Claimant</label>
+            <language>en</language>
+            <name>x_snc_unemployment_appeals</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-29 18:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2f7e06887bc855005fd63583cbb359b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-29 18:41:45</sys_updated_on>
+            <value>claimant</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

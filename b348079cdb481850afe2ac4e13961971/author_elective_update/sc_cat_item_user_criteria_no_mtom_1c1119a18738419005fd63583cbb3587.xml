@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Appeal a Decision">4811d5a18738419005fd63583cbb3561</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-02 00:15:14</sys_created_on>
+        <sys_id>1c1119a18738419005fd63583cbb3587</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Report Fraud.SNC External</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_1c1119a18738419005fd63583cbb3587</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-02 00:15:14</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_1c1119a18738419005fd63583cbb3587</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Appeal a Decision">4811d5a18738419005fd63583cbb3561</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-02 00:15:14</sys_created_on><sys_id>1c1119a18738419005fd63583cbb3587</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Copy of Report Fraud.SNC External</sys_name><sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package><sys_policy/><sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_1c1119a18738419005fd63583cbb3587</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-02 00:15:14</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>1756242775</payload_hash>
+        <record_name>Copy of Report Fraud.SNC External</record_name>
+        <reverted_from/>
+        <source>2913581287200110c5f9ed3d0ebb352b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-12-22 17:24:11</sys_created_on>
+        <sys_id>dc371d618778419005fd63583cbb356f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17de32bfe780000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>9c371d61ba7841904261764145f4cd6f</update_guid>
+        <update_guid_history>9c371d61ba7841904261764145f4cd6f:1756242775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of Report Fraud.SNC External">14371d618778419005fd63583cbb3572</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-02 00:42:00</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>4aed1d3044a6407fa5448d0fa24173f9</sys_id>
+        <sys_metadata>1c1119a18738419005fd63583cbb3587</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Report Fraud.SNC External</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent display_value="Appeal a Decision">4811d5a18738419005fd63583cbb3561</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_1c1119a18738419005fd63583cbb3587</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_1c1119a18738419005fd63583cbb3587">dc371d618778419005fd63583cbb356f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-02 00:42:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

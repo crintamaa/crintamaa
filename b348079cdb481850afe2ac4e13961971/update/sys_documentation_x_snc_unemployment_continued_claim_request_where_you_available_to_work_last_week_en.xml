@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="where_you_available_to_work_last_week" label="Where you available to work last week?" language="en" table="x_snc_unemployment_continued_claim_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>where_you_available_to_work_last_week</element>
+            <help/>
+            <hint/>
+            <label>Where you available to work last week?</label>
+            <language>en</language>
+            <name>x_snc_unemployment_continued_claim_request</name>
+            <plural>Where you available to work last week?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 22:38:56</sys_created_on>
+            <sys_id>20d4cfdf8758415405fd63583cbb3576</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Where you available to work last week?</sys_name>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_unemployment_continued_claim_request_where_you_available_to_work_last_week_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 22:38:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

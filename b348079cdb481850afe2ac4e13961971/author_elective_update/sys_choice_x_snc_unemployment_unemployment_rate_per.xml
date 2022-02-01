@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="rate_per" table="x_snc_unemployment_unemployment" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>rate_per</element>
+            <name>x_snc_unemployment_unemployment</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:52:10</sys_created_on>
+            <sys_id>47ee8398db881850afe2ac4e139619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>rate_per</sys_name>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_choice_x_snc_unemployment_unemployment_rate_per</sys_update_name>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:52:10</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rate_per</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hour</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:52:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbee8398db881850afe2ac4e139619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:52:10</sys_updated_on>
+            <value>Hour</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rate_per</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Month</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:52:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bee8398db881850afe2ac4e139619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:52:10</sys_updated_on>
+            <value>Month</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rate_per</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Week</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:52:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03ee8398db881850afe2ac4e139619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:52:10</sys_updated_on>
+            <value>Week</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rate_per</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Year</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:52:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03ee8398db881850afe2ac4e139619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:52:10</sys_updated_on>
+            <value>Year</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

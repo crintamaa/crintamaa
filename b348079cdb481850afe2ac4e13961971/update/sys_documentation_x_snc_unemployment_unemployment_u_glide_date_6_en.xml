@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_glide_date_6" label="Stop Payment Date" language="en" table="x_snc_unemployment_unemployment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_date_6</element>
+            <help/>
+            <hint/>
+            <label>Stop Payment Date</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <plural>Stop Payment Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2021-01-08 16:42:39</sys_created_on>
+            <sys_id>50504c5edb21ecd0e0d8dbdb5e96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Stop Payment Date</sys_name>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_unemployment_unemployment_u_glide_date_6_en</sys_update_name>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2021-01-08 16:42:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

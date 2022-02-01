@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Payments">bc560605db209490aeb456f9dc9619c7</application>
+        <filter/>
+        <name>Payments</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_unemployment.payments_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>carol.rintamaa</sys_created_by>
+        <sys_created_on>2020-05-01 16:01:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f4560605db209490aeb456f9dc9619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Payments</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_ui_module_f4560605db209490aeb456f9dc9619ca</sys_update_name>
+        <sys_updated_by>carol.rintamaa</sys_updated_by>
+        <sys_updated_on>2020-05-01 16:01:47</sys_updated_on>
+        <table>x_snc_unemployment_payments</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item/>
+        <catalog_variable>IO:d21b7d0b877441d005fd63583cbb3561</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 19:49:50</sys_created_on>
+        <sys_id>bd340e4387f441d005fd63583cbb3540</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>please_list_involved_businesses</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_bd340e4387f441d005fd63583cbb3540</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 19:49:50</sys_updated_on>
+        <table/>
+        <ui_policy display_value="show Consumer">f7224acb87b441d005fd63583cbb3530</ui_policy>
+        <variable>please_list_involved_businesses</variable>
+        <variable_set display_value="List the additional parties involved in the Appeal">762779cf873441d005fd63583cbb350c</variable_set>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>catalog_ui_policy_action_bd340e4387f441d005fd63583cbb3540</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item/><catalog_variable>IO:d21b7d0b877441d005fd63583cbb3561</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-06 19:49:50</sys_created_on><sys_id>bd340e4387f441d005fd63583cbb3540</sys_id><sys_mod_count>0</sys_mod_count><sys_name>please_list_involved_businesses</sys_name><sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package><sys_policy/><sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope><sys_update_name>catalog_ui_policy_action_bd340e4387f441d005fd63583cbb3540</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-06 19:49:50</sys_updated_on><table/><ui_policy display_value="show Consumer">f7224acb87b441d005fd63583cbb3530</ui_policy><variable>please_list_involved_businesses</variable><variable_set display_value="List the additional parties involved in the Appeal">762779cf873441d005fd63583cbb350c</variable_set><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1225883493</payload_hash>
+        <record_name>please_list_involved_businesses</record_name>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 19:49:50</sys_created_on>
+        <sys_id>89444e4387f441d005fd63583cbb35bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e30f0bb670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 19:49:50</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>094442432af441d0fa84726217fc25c9</update_guid>
+        <update_guid_history>094442432af441d0fa84726217fc25c9:-1225883493</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="please_list_involved_businesses">4867ca8b87f441d005fd63583cbb3541</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 20:03:24</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>5a28bc68b1144b679cd954facca755e1</sys_id>
+        <sys_metadata>bd340e4387f441d005fd63583cbb3540</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>please_list_involved_businesses</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_bd340e4387f441d005fd63583cbb3540</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_bd340e4387f441d005fd63583cbb3540">89444e4387f441d005fd63583cbb35bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 20:03:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

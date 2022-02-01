@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Copy of Report Fraud">1d7859658778419005fd63583cbb3547</catalog_item>
+        <catalog_variable>IO:ed7859658778419005fd63583cbb359b</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-02 00:47:34</sys_created_on>
+        <sys_id>317899658778419005fd63583cbb350c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>product</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_317899658778419005fd63583cbb350c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-02 00:47:34</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show/Hide Product for Complaint Type">797899658778419005fd63583cbb3508</ui_policy>
+        <variable>product</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>catalog_ui_policy_action_317899658778419005fd63583cbb350c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Copy of Report Fraud">1d7859658778419005fd63583cbb3547</catalog_item><catalog_variable>IO:ed7859658778419005fd63583cbb359b</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-02 00:47:34</sys_created_on><sys_id>317899658778419005fd63583cbb350c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>product</sys_name><sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package><sys_policy/><sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope><sys_update_name>catalog_ui_policy_action_317899658778419005fd63583cbb350c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-02 00:47:34</sys_updated_on><table/><ui_policy display_value="Show/Hide Product for Complaint Type">797899658778419005fd63583cbb3508</ui_policy><variable>product</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-176544217</payload_hash>
+        <record_name>product</record_name>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-02 00:47:34</sys_created_on>
+        <sys_id>f97899658778419005fd63583cbb351b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e184184f00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-02 00:47:34</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>f17899654d7841906fc8d9bac3feb81b</update_guid>
+        <update_guid_history>f17899654d7841906fc8d9bac3feb81b:-176544217</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="product">1e05060787f441d005fd63583cbb35e1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 19:53:11</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>0fc7c0ed9c654e0f89f91cbf2bb50b89</sys_id>
+        <sys_metadata>317899658778419005fd63583cbb350c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>product</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_317899658778419005fd63583cbb350c</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_317899658778419005fd63583cbb350c">f97899658778419005fd63583cbb351b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 19:53:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

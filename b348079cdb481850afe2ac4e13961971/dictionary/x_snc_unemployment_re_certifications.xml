@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Re-Certifications" max_length="40" name="x_snc_unemployment_re_certifications" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Any disabilities during the week?" max_length="40" name="any_disabilities_during_the_week" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Consumer" max_length="32" name="consumer" reference="csm_consumer" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Did you look for work?" max_length="40" name="did_you_look_for_work" type="boolean"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Continued Claim Request" max_length="32" name="unemployment_claim" reference="x_snc_unemployment_continued_claim_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Week Starting" max_length="40" name="week_starting" type="glide_date"/>
+        <index name="index">
+            <element name="unemployment_claim"/>
+        </index>
+        <index name="index2">
+            <element name="consumer"/>
+        </index>
+    </element>
+</database>

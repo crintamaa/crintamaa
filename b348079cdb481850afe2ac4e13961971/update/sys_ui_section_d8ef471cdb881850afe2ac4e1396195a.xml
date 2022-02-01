@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d8ef471cdb881850afe2ac4e1396195a" sys_domain="global" table="x_snc_unemployment_unemployment" version="3" view="case">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>csm_case_head_ribbon</element>
+            <position>0</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>98ef471cdb881850afe2ac4e1396195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="">373f2e88db9a03002e729ea3db96198e</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>1</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>10ef471cdb881850afe2ac4e1396195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>94ef471cdb881850afe2ac4e1396195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>3</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>1cef471cdb881850afe2ac4e1396195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>4</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>90ef471cdb881850afe2ac4e1396195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account</element>
+            <position>5</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>18ef471cdb881850afe2ac4e1396195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact</element>
+            <position>6</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>9cef471cdb881850afe2ac4e1396195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product</element>
+            <position>7</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>14ef471cdb881850afe2ac4e1396195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <position>8</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>98ef471cdb881850afe2ac4e1396195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset.ci</element>
+            <position>9</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>10ef471cdb881850afe2ac4e1396195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>10</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>94ef471cdb881850afe2ac4e1396195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>1cef471cdb881850afe2ac4e1396195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>12</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>90ef471cdb881850afe2ac4e13961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>13</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>18ef471cdb881850afe2ac4e13961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>14</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>9cef471cdb881850afe2ac4e13961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>15</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>14ef471cdb881850afe2ac4e13961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>16</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>98ef471cdb881850afe2ac4e13961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract</element>
+            <position>17</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>10ef471cdb881850afe2ac4e13961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entitlement</element>
+            <position>18</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>94ef471cdb881850afe2ac4e13961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_worked</element>
+            <position>19</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>1cef471cdb881850afe2ac4e13961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>partner</element>
+            <position>20</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>90ef471cdb881850afe2ac4e13961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>partner_contact</element>
+            <position>21</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>18ef471cdb881850afe2ac4e13961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>22</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>9cef471cdb881850afe2ac4e13961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>23</position>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_id>14ef471cdb881850afe2ac4e13961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">d8ef471cdb881850afe2ac4e1396195a</sys_ui_section>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_unemployment_unemployment</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>carol.rintamaa</sys_created_by>
+            <sys_created_on>2020-04-04 16:56:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8ef471cdb881850afe2ac4e1396195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_unemployment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_section_d8ef471cdb881850afe2ac4e1396195a</sys_update_name>
+            <sys_updated_by>carol.rintamaa</sys_updated_by>
+            <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Case" name="case">4a18ae361b436010003f54292d4bcba8</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

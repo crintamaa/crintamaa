@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_snc_unemployment.Appeals</api_name>
+        <description/>
+        <name>Appeals</name>
+        <roles name="x_snc_unemployment.appeals">8b321a0b877841d005fd63583cbb35e8</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 20:51:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1b22960b877841d005fd63583cbb357f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Appeals</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_ux_applicability_1b22960b877841d005fd63583cbb357f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 20:51:13</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

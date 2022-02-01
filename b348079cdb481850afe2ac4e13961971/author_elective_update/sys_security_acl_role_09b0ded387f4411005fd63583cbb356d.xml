@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-07 15:22:52</sys_created_on>
+        <sys_id>09b0ded387f4411005fd63583cbb356d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_unemployment_job_applications.sn_customerservice.consumer</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_security_acl display_value="x_snc_unemployment_job_applications">caa7db448778c15005fd63583cbb353c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_09b0ded387f4411005fd63583cbb356d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-07 15:22:52</sys_updated_on>
+        <sys_user_role display_value="sn_customerservice.consumer" name="sn_customerservice.consumer">a3c20ae3c303120095ccd02422d3ae8f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>sys_security_acl_role_09b0ded387f4411005fd63583cbb356d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-07 15:22:52</sys_created_on><sys_id>09b0ded387f4411005fd63583cbb356d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_unemployment_job_applications.sn_customerservice.consumer</sys_name><sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package><sys_policy/><sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope><sys_security_acl display_value="x_snc_unemployment_job_applications">caa7db448778c15005fd63583cbb353c</sys_security_acl><sys_update_name>sys_security_acl_role_09b0ded387f4411005fd63583cbb356d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-07 15:22:52</sys_updated_on><sys_user_role display_value="sn_customerservice.consumer" name="sn_customerservice.consumer">a3c20ae3c303120095ccd02422d3ae8f</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>617517283</payload_hash>
+        <record_name>x_snc_unemployment_job_applications.sn_customerservice.consumer</record_name>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-07 15:22:52</sys_created_on>
+        <sys_id>a4c0d21787f4411005fd63583cbb353e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e3522af100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-07 15:22:52</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>2cc0d217e6f44110abf53e2e5c1a943d</update_guid>
+        <update_guid_history>2cc0d217e6f44110abf53e2e5c1a943d:617517283</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_unemployment_job_applications.sn_customerservice.consumer">2059f25387744d90c5f9ed3d0ebb359d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>brian.clauzel@snc</sys_created_by>
+        <sys_created_on>2022-01-07 18:20:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>085d39231d824a15826e625261926ef1</sys_id>
+        <sys_metadata>09b0ded387f4411005fd63583cbb356d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_unemployment_job_applications.sn_customerservice.consumer</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent display_value="x_snc_unemployment_job_applications">caa7db448778c15005fd63583cbb353c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_09b0ded387f4411005fd63583cbb356d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_09b0ded387f4411005fd63583cbb356d">a4c0d21787f4411005fd63583cbb353e</sys_update_version>
+        <sys_updated_by>brian.clauzel@snc</sys_updated_by>
+        <sys_updated_on>2022-01-07 18:20:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Job Applications" max_length="40" name="x_snc_unemployment_job_applications" sizeclass="8" type="collection">
+        <element label="Application Status" max_length="40" name="application_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Applied" sequence="0" value="applied"/>
+                <element inactive_on_update="false" label="Interview Scheduled" sequence="1" value="interview scheduled"/>
+                <element inactive_on_update="false" label="Hired" sequence="2" value="hired"/>
+                <element inactive_on_update="false" label="No jobs available" sequence="3" value="no jobs available"/>
+                <element inactive_on_update="false" label="Rejected" sequence="4" value="rejected"/>
+            </choice>
+        </element>
+        <element label="Business Address" max_length="100" name="business_address" type="string"/>
+        <element label="Business City" max_length="40" name="business_city" type="string"/>
+        <element label="Business Phone Number" max_length="40" name="business_phone_number" type="integer"/>
+        <element label="Business State" max_length="2" name="business_state" type="string"/>
+        <element label="Business Zip code" max_length="15" name="business_zip_code" type="string"/>
+        <element label="Date of Application" max_length="40" name="date_of_application" type="glide_date"/>
+        <element label="Job Title On Application" max_length="100" name="job_title_on_application" type="string"/>
+        <element label="Method of Application" max_length="40" name="method_of_application" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In-Person" sequence="0" value="in-person"/>
+                <element inactive_on_update="false" label="Phone" sequence="1" value="phone"/>
+                <element inactive_on_update="false" label="Online" sequence="2" value="online"/>
+                <element inactive_on_update="false" label="Email" sequence="3" value="email"/>
+                <element inactive_on_update="false" label="Fax" sequence="4" value="fax"/>
+            </choice>
+        </element>
+        <element label="Weekly Certification" max_length="32" name="weekly_certification" reference="x_snc_unemployment_continued_claim_request" type="reference"/>
+        <element label="Where did you apply?" max_length="40" name="where_did_you_apply" type="string"/>
+        <index name="index">
+            <element name="weekly_certification"/>
+        </index>
+    </element>
+</database>

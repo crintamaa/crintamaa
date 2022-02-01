@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>1200</order>
+        <sc_cat_item display_value="Appeal an Unemployment Decision">1d7859658778419005fd63583cbb3547</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 20:22:25</sys_created_on>
+        <sys_id>2ebb8ac7873841d005fd63583cbb3510</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>List the additional parties involved in the Appeal.Appeal an Unemployment Decision</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>io_set_item_2ebb8ac7873841d005fd63583cbb3510</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 20:29:02</sys_updated_on>
+        <variable_set display_value="List the additional parties involved in the Appeal">762779cf873441d005fd63583cbb350c</variable_set>
+    </io_set_item>
+</record_update>

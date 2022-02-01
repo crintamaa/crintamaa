@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>involved_parties_csp</internal_name>
+        <layout>2across</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 20:05:01</sys_created_on>
+        <sys_id>a7b7020f87f441d005fd63583cbb35f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List the additional parties involved in the complaint</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>item_option_new_set_a7b7020f87f441d005fd63583cbb35f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 20:05:01</sys_updated_on>
+        <title>List the additional parties involved in the complaint</title>
+        <type>one_to_many</type>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>item_option_new_set_a7b7020f87f441d005fd63583cbb35f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description/><display_title>false</display_title><internal_name>involved_parties_csp</internal_name><layout>2across</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-06 20:05:01</sys_created_on><sys_id>a7b7020f87f441d005fd63583cbb35f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>List the additional parties involved in the complaint</sys_name><sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package><sys_policy/><sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope><sys_update_name>item_option_new_set_a7b7020f87f441d005fd63583cbb35f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-06 20:05:01</sys_updated_on><title>List the additional parties involved in the complaint</title><type>one_to_many</type><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>-1766442482</payload_hash>
+        <record_name>List the additional parties involved in the complaint</record_name>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 20:05:01</sys_created_on>
+        <sys_id>e3b7020f87f441d005fd63583cbb35f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e30fea23a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 20:05:01</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>ebb7020f02f441d05c5b6b7c1fe78bf5</update_guid>
+        <update_guid_history>ebb7020f02f441d05c5b6b7c1fe78bf5:-1766442482</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="List the additional parties involved in the complaint">d22a4e83873841d005fd63583cbb3568</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 20:15:34</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>7dc2d43baa544bca81f741de466285a9</sys_id>
+        <sys_metadata>a7b7020f87f441d005fd63583cbb35f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List the additional parties involved in the complaint</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>item_option_new_set_a7b7020f87f441d005fd63583cbb35f3</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_a7b7020f87f441d005fd63583cbb35f3">e3b7020f87f441d005fd63583cbb35f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 20:15:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

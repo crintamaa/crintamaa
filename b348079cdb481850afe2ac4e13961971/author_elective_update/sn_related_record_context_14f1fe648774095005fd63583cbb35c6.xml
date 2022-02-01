@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_related_record_context">
+    <sn_related_record_context action="DELETE">
+        <active>true</active>
+        <applies_to_table>x_snc_unemployment_adjudication_case</applies_to_table>
+        <conditions/>
+        <inherited>false</inherited>
+        <name>Related Claim</name>
+        <order>100</order>
+        <primary_field>unemployment_claim</primary_field>
+        <secondary_field/>
+        <sys_class_name>sn_related_record_context</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-30 04:44:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>14f1fe648774095005fd63583cbb35c6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Related Claim</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sn_related_record_context_14f1fe648774095005fd63583cbb35c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-30 05:02:48</sys_updated_on>
+    </sn_related_record_context>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>sn_related_record_context_14f1fe648774095005fd63583cbb35c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_related_record_context"><sn_related_record_context action="INSERT_OR_UPDATE"><active>true</active><applies_to_table>x_snc_unemployment_adjudication_case</applies_to_table><conditions/><inherited>false</inherited><name>Related Claim</name><order>100</order><primary_field>unemployment_claim</primary_field><secondary_field/><sys_class_name>sn_related_record_context</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-30 04:44:58</sys_created_on><sys_domain>global</sys_domain><sys_id>14f1fe648774095005fd63583cbb35c6</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Related Claim</sys_name><sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package><sys_policy/><sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope><sys_update_name>sn_related_record_context_14f1fe648774095005fd63583cbb35c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-30 05:02:48</sys_updated_on></sn_related_record_context></record_update>]]></payload>
+        <payload_hash>-1125559161</payload_hash>
+        <record_name>Related Claim</record_name>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-30 05:02:48</sys_created_on>
+        <sys_id>17167eec8774095005fd63583cbb3500</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e09b81dfb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-30 05:02:48</sys_updated_on>
+        <type>Related Record Context</type>
+        <update_guid>db163eec127409506327ab88648f84ff</update_guid>
+        <update_guid_history>db163eec127409506327ab88648f84ff:-1125559161,da0272a4c3740950ca5bf0fe99cb6391:557065938</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Related Claim">7cce3ee487f4095005fd63583cbb35d4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-30 05:40:35</sys_created_on>
+        <sys_db_object display_value="" name="sn_related_record_context">sn_related_record_context</sys_db_object>
+        <sys_id>4d7c3aabeedf4c24acf40a6a8a772490</sys_id>
+        <sys_metadata>14f1fe648774095005fd63583cbb35c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related Claim</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>sn_related_record_context_14f1fe648774095005fd63583cbb35c6</sys_update_name>
+        <sys_update_version display_value="sn_related_record_context_14f1fe648774095005fd63583cbb35c6">17167eec8774095005fd63583cbb3500</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-30 05:40:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

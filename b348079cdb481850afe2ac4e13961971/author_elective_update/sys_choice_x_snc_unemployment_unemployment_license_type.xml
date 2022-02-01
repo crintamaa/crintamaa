@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="license_type" table="x_snc_unemployment_unemployment" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>license_type</element>
+            <name>x_snc_unemployment_unemployment</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:51</sys_created_on>
+            <sys_id>5d1c62938794415405fd63583cbb352c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>license_type</sys_name>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_choice_x_snc_unemployment_unemployment_license_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>license_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Drivers License</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>151c62938794415405fd63583cbb352c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:51</sys_updated_on>
+            <value>drivers license</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>license_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Passport</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>551c62938794415405fd63583cbb3534</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>passport</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>license_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government ID</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>991c62938794415405fd63583cbb353b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>government id</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

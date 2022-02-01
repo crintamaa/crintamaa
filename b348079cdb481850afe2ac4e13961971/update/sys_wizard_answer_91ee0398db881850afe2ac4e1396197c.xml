@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Unemployment</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Unemployment</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e043f1d61b032010d63811fc2d4bcb50</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>carol.rintamaa</sys_created_by>
+        <sys_created_on>2020-04-04 16:52:02</sys_created_on>
+        <sys_id>91ee0398db881850afe2ac4e1396197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unemployment</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_wizard_answer_91ee0398db881850afe2ac4e1396197c</sys_update_name>
+        <sys_updated_by>carol.rintamaa</sys_updated_by>
+        <sys_updated_on>2020-04-04 16:52:02</sys_updated_on>
+        <table/>
+        <target_url>x_snc_unemployment_unemployment.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

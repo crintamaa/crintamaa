@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>consumer</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Auto-Populate Name fields in Portal</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading || newValue === '') {
+		return;
+	}
+
+	//Type appropriate comment here, and begin script below
+	g_form.getReference('consumer', function(consumer) {
+		var firstName = consumer.getValue('first_name');
+		var middleName = consumer.getValue('middle_name');
+		var lastName = consumer.getValue('last_name');
+		var birthDate = consumer.getDisplayValue('u_birth_date');
+
+		g_form.setValue('first_name', firstName);
+		g_form.setValue('u_middle_name', middleName);
+		g_form.setValue('last_name', lastName);
+		g_form.setValue('u_birth_date', birthDate);
+	});
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2021-12-22 19:50:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e047c1287280110c5f9ed3d0ebb35f3</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Auto-Populate Name fields in Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_script_client_0e047c1287280110c5f9ed3d0ebb35f3</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2021-12-22 20:05:18</sys_updated_on>
+        <table>x_snc_unemployment_unemployment</table>
+        <type>onChange</type>
+        <ui_type>1</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

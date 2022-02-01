@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>carol.rintamaa</sys_created_by>
+        <sys_created_on>2020-04-06 16:35:22</sys_created_on>
+        <sys_id>613e5d41db0c1c50afe2ac4e13961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_snc_unemployment.citizen</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_security_acl display_value="x_snc_unemployment_unemployment">383e1d41db0c1c50afe2ac4e139619a5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_613e5d41db0c1c50afe2ac4e13961928</sys_update_name>
+        <sys_updated_by>carol.rintamaa</sys_updated_by>
+        <sys_updated_on>2020-04-06 16:35:22</sys_updated_on>
+        <sys_user_role display_value="x_snc_unemployment.citizen" name="x_snc_unemployment.citizen">18a21e38dbc4d850afe2ac4e1396192d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

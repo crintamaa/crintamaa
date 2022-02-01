@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Related Records" section_id="39b21fc48738c15005fd63583cbb358a" sys_domain="global" table="x_snc_unemployment_appeals" version="3" view="major_case">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_id>b9b21fc48738c15005fd63583cbb358b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">39b21fc48738c15005fd63583cbb358a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_id>31b21fc48738c15005fd63583cbb358c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">39b21fc48738c15005fd63583cbb358a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>post_case_review</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_id>b5b21fc48738c15005fd63583cbb358c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">39b21fc48738c15005fd63583cbb358a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_id>3db21fc48738c15005fd63583cbb358c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">39b21fc48738c15005fd63583cbb358a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_id>b1b21fc48738c15005fd63583cbb358d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">39b21fc48738c15005fd63583cbb358a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caused_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_id>39b21fc48738c15005fd63583cbb358d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">39b21fc48738c15005fd63583cbb358a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>case_action_summary</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_id>bdb21fc48738c15005fd63583cbb358d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">39b21fc48738c15005fd63583cbb358a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_id>35b21fc48738c15005fd63583cbb358e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">39b21fc48738c15005fd63583cbb358a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Related Records</caption>
+            <header>false</header>
+            <name>x_snc_unemployment_appeals</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39b21fc48738c15005fd63583cbb358a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_appeals</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_section_39b21fc48738c15005fd63583cbb358a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Major Case" name="major_case">bb9470da87fff41005fd63583cbb3539</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

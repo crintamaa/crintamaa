@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_snc_unemployment_continued_claim_request" label="Payments" max_length="40" name="x_snc_unemployment_payments" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,omit_sys_original=true" label="Payment Amount" max_length="20" name="payment_amount" type="currency"/>
+        <element label="Processed on" max_length="40" name="processed_on" type="glide_date"/>
+    </element>
+</database>

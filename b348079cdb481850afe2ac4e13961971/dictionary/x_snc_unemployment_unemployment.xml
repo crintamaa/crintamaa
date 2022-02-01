@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true" audit="true" extends="sn_customerservice_case" label="Unemployment" max_length="40" name="x_snc_unemployment_unemployment" sizeclass="4" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Application Period" max_length="40" name="application_period" type="glide_date"/>
+        <element label="Approx number of employees" max_length="40" name="approx_number_of_employees" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="no" label="Are you a military veteran?" max_length="40" name="are_you_a_military_veteran" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Are you Hispanic/ Latino?" max_length="40" name="are_you_hispanic_latino" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Are you presently attending school or training?" max_length="40" name="are_you_presently_attending_school_or_training" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Are you scheduled to return to work for this employer?" max_length="40" name="are_you_scheduled_to_return_to_work_for_this_employer" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="Are you unemployed as a result of a major disaster?" max_length="40" name="are_you_unemployed_as_a_result_of_a_major_disaster" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Business Owner" max_length="40" name="business_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Can you accept full time work immediately?" max_length="40" name="can_you_accept_full_time_work_immediately" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Issues" max_length="40" name="date_issues" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Document you received from this employer" max_length="40" name="document_you_received_from_this_employer" type="string">
+            <choice>
+                <element inactive_on_update="false" label="W-2" sequence="0" value="w-2"/>
+                <element inactive_on_update="false" label="1099" sequence="1" value="1099"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Doing business as" max_length="40" name="doing_business_as" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Do you want to have 10% of your employment payments withheld for federal income " max_length="40" name="do_you_want_to_have_10_of_your_employment_payments_withheld_for_federal_income_t" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Driver's License or State ID State" max_length="40" name="driver_s_license_or_state_id_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="AL" sequence="0" value="al"/>
+                <element inactive_on_update="false" label="AK" sequence="1" value="ak"/>
+                <element inactive_on_update="false" label="AZ" sequence="2" value="az"/>
+                <element inactive_on_update="false" label="AR" sequence="3" value="ar"/>
+                <element inactive_on_update="false" label="CA" sequence="4" value="ca"/>
+                <element inactive_on_update="false" label="CO" sequence="5" value="co"/>
+                <element inactive_on_update="false" label="CT" sequence="6" value="ct"/>
+                <element inactive_on_update="false" label="DE" sequence="7" value="de"/>
+                <element inactive_on_update="false" label="FL" sequence="8" value="fl"/>
+                <element inactive_on_update="false" label="GA" sequence="9" value="ga"/>
+                <element inactive_on_update="false" label="HI" sequence="10" value="hi"/>
+                <element inactive_on_update="false" label="ID" sequence="11" value="id"/>
+                <element inactive_on_update="false" label="IL" sequence="12" value="il"/>
+                <element inactive_on_update="false" label="IN" sequence="13" value="in"/>
+                <element inactive_on_update="false" label="IA" sequence="14" value="ia"/>
+                <element inactive_on_update="false" label="KS" sequence="15" value="ks"/>
+                <element inactive_on_update="false" label="KY" sequence="16" value="ky"/>
+                <element inactive_on_update="false" label="LA" sequence="17" value="la"/>
+                <element inactive_on_update="false" label="ME" sequence="18" value="me"/>
+                <element inactive_on_update="false" label="MD" sequence="19" value="md"/>
+                <element inactive_on_update="false" label="MA" sequence="20" value="ma"/>
+                <element inactive_on_update="false" label="MI" sequence="21" value="mi"/>
+                <element inactive_on_update="false" label="MN" sequence="22" value="mn"/>
+                <element inactive_on_update="false" label="MS" sequence="23" value="ms"/>
+                <element inactive_on_update="false" label="MO" sequence="24" value="mo"/>
+                <element inactive_on_update="false" label="MT" sequence="25" value="mt"/>
+                <element inactive_on_update="false" label="NE" sequence="26" value="ne"/>
+                <element inactive_on_update="false" label="NV" sequence="27" value="nv"/>
+                <element inactive_on_update="false" label="NH" sequence="28" value="nh"/>
+                <element inactive_on_update="false" label="NJ" sequence="29" value="nj"/>
+                <element inactive_on_update="false" label="NM" sequence="30" value="nm"/>
+                <element inactive_on_update="false" label="NY" sequence="31" value="ny"/>
+                <element inactive_on_update="false" label="NC" sequence="32" value="nc"/>
+                <element inactive_on_update="false" label="ND" sequence="33" value="nd"/>
+                <element inactive_on_update="false" label="OH" sequence="34" value="oh"/>
+                <element inactive_on_update="false" label="OK" sequence="35" value="ok"/>
+                <element inactive_on_update="false" label="OR" sequence="36" value="or"/>
+                <element inactive_on_update="false" label="PA" sequence="37" value="pa"/>
+                <element inactive_on_update="false" label="RI" sequence="38" value="ri"/>
+                <element inactive_on_update="false" label="SC" sequence="39" value="sc"/>
+                <element inactive_on_update="false" label="SD" sequence="40" value="sd"/>
+                <element inactive_on_update="false" label="TN" sequence="41" value="tn"/>
+                <element inactive_on_update="false" label="TX" sequence="42" value="tx"/>
+                <element inactive_on_update="false" label="UT" sequence="43" value="ut"/>
+                <element inactive_on_update="false" label="VT" sequence="44" value="vt"/>
+                <element inactive_on_update="false" label="VA" sequence="45" value="va"/>
+                <element inactive_on_update="false" label="WA" sequence="46" value="wa"/>
+                <element inactive_on_update="false" label="WV" sequence="47" value="wv"/>
+                <element inactive_on_update="false" label="WI" sequence="48" value="wi"/>
+                <element inactive_on_update="false" label="WY" sequence="49" value="wy"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Email Address" max_length="40" name="email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employer Name" max_length="40" name="employer_at_time_of_pandemic" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employer ID" max_length="40" name="employer_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employer Industry" max_length="40" name="employer_industry" type="string"/>
+        <element label="Employer phone #" max_length="40" name="employer_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employer Type" max_length="40" name="employer_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Expires" max_length="40" name="expires" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="FEIN" max_length="40" name="fein" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" max_length="40" name="first_name" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" max_length="40" name="gender" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Female" sequence="0" value="female"/>
+                <element inactive_on_update="false" label="Male" sequence="1" value="male"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Have you applied for unemployment in any other state in the last 12 months?" max_length="40" name="have_you_applied_for_unemployment_in_any_other_state_in_the_last_12_months" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Have you received or will you receive the following?" max_length="40" name="have_you_received_or_will_you_received_the_following" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Have you refused an offer to work since your last day of employment?" max_length="40" name="have_you_refused_an_offer_to_work_since_your_last_day_of_employment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Have you worked for any employer since April 2020?" max_length="40" name="have_you_worked_for_any_employer_since_april_2020" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Height (Feet)" max_length="40" name="height_feet" type="string"/>
+        <element label="Height (inches)" max_length="40" name="height_inches" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Hiring Manager Name" max_length="40" name="hiring_manager_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="How do you want to be paid?" max_length="40" name="how_do_you_want_to_be_paid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="How may we contact you?" max_length="40" name="how_may_we_contact_you" type="string"/>
+        <element label="If you worked under another SSN, enter it here" max_length="40" name="if_you_worked_under_another_ssn_enter_it_here" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="Is this your mailing address?" max_length="40" name="is_this_your_mailing_address" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Job Title" max_length="40" name="job_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" max_length="40" name="last_name" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="License Number" max_length="40" name="license_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="License Type" max_length="40" name="license_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Drivers License" sequence="0" value="drivers license"/>
+                <element inactive_on_update="false" label="Passport" sequence="1" value="passport"/>
+                <element inactive_on_update="false" label="Government ID" sequence="2" value="government id"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Method of payments" max_length="40" name="method_of_payments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Middle initial" max_length="40" name="middle_initial" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nature of business" max_length="40" name="nature_of_business" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="english" label="Preferred Language" max_length="40" name="preferred_language" type="string">
+            <choice>
+                <element inactive_on_update="false" label="English" sequence="0" value="english"/>
+                <element inactive_on_update="false" label="Spanish" sequence="1" value="spanish"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Rate Per" max_length="40" name="rate_per" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Hour" value="Hour"/>
+                <element inactive_on_update="false" label="Month" value="Month"/>
+                <element inactive_on_update="false" label="Week" value="Week"/>
+                <element inactive_on_update="false" label="Year" value="Year"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reason for Separation" max_length="40" name="reason_for_separation" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Leave of Absence" value="5"/>
+                <element inactive_on_update="false" label="Permanent Lay-off" value="1"/>
+                <element inactive_on_update="false" label="Quit or Voluntary Lay-off" value="3"/>
+                <element inactive_on_update="false" label="Temporary Lay-off" value="2"/>
+                <element inactive_on_update="false" label="Working Reduced Hours" value="4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Salary Rate" max_length="20" name="salary_rate" type="price"/>
+        <element label="Secondary Phone" max_length="40" name="secondary_phone" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Secondary Reason for Separation" max_length="40" name="secondary_reason_for_separation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Secondary Street Address" max_length="40" name="secondary_street_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Self employed or self employed in the past year?" max_length="40" name="self_employed_or_self_employed_inthe_part_year" type="boolean"/>
+        <element label="SSN" max_length="40" name="ssn" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="starte_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Street Address" max_length="40" name="street_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supervisor's Name" max_length="40" name="supervisor_s_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Total Gross Earnings this week" max_length="20" name="total_gross_earnings_this_week" type="price"/>
+        <element label="Total wages earned" max_length="40" name="total_wages_earned" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Type of Work" max_length="40" name="type_of_work" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reason for Unemployment as a result of Covid-19 " max_length="40" name="unemployment_was_a_result_of_covid_19" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Business closed" value="2"/>
+                <element inactive_on_update="false" label="Chronic Illness" value="1"/>
+                <element inactive_on_update="false" label="Hours Reduced" value="4"/>
+                <element inactive_on_update="false" label="Mandatory Isolation" value="5"/>
+                <element inactive_on_update="false" label="Shelter in place" value="3"/>
+            </choice>
+        </element>
+        <element label="Willing to accept full time employment" max_length="40" name="u_accept_job_boolean" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Birth date" max_length="40" name="u_birth_date" read_only="true" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Is Fraud Case" max_length="40" name="u_boolean_1" type="boolean"/>
+        <element label="Receiving pension from this employer" max_length="40" name="u_boolean_14" type="boolean"/>
+        <element label="Being paid from this employer during time off of work" max_length="40" name="u_boolean_15" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Stop Payment Issued" max_length="40" name="u_boolean_5" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Fraud Reason" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="False Identity" sequence="0" value="false identity"/>
+                <element inactive_on_update="false" label="Previous Claim" sequence="1" value="previous claim"/>
+            </choice>
+        </element>
+        <element label="Currently enrolled in school or training" max_length="40" name="u_education_enrolled_boolean" type="boolean"/>
+        <element label="Federal employer - last 18 mths" max_length="40" name="u_fed_emp_boolean" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Where are you filing?" max_length="40" name="u_filing" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Home" sequence="0" value="home"/>
+                <element inactive_on_update="false" label="Public Facility" sequence="1" value="public facility"/>
+                <element inactive_on_update="false" label="WIN Job Center" sequence="2" value="win job center"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Investigation Start" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Investigation End" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Stop Payment Date" max_length="40" name="u_glide_date_6" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Middle name" max_length="100" name="u_middle_name" read_only="true" type="string"/>
+        <element label="Military - last 18 mths" max_length="40" name="u_military_boolean" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Proof of closure reason" max_length="40" name="u_pocr" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Proof of Employment" max_length="40" name="u_pow" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Location" max_length="32" name="u_reference_13" reference="cmn_location" type="reference"/>
+        <element label="Refused Job Offer after leaving Employer" max_length="40" name="u_refused_work_boolean" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Do you have a definite date to return to full-time work?" max_length="40" name="u_returntowork" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Are you self-employed?" max_length="40" name="u_selfemployed" type="string"/>
+        <element label="SSN" max_length="100" name="u_ssn" type="password"/>
+        <element label="SSN" max_length="100" name="u_ssn_updated" type="string"/>
+        <element label="Please enter the last four digits of your Social Security Number to sign" max_length="40" name="u_ss_signature" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Supervisor's Title" max_length="40" name="u_supervisorstitle" type="string"/>
+        <element label="U.S. Citizen" max_length="40" name="u_us_citizen" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Was your employer a Headstart employer?" max_length="40" name="was_your_employer_a_headstart_employer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="What is your Race?" max_length="40" name="what_is_your_race" type="string">
+            <choice>
+                <element inactive_on_update="false" label="American Indian or Native American" sequence="0" value="american indian or native american"/>
+                <element inactive_on_update="false" label="Asian" sequence="1" value="asian"/>
+                <element inactive_on_update="false" label="Black or African American" sequence="2" value="black or african american"/>
+                <element inactive_on_update="false" label="White" sequence="3" value="white"/>
+                <element inactive_on_update="false" label="Native Hawaiian" sequence="4" value="native hawaiian"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="What was the highest grade you completed?" max_length="40" name="what_was_the_highest_grade_you_completed" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1st Grade" sequence="0" value="1st grade"/>
+                <element inactive_on_update="false" label="2nd Grade" sequence="1" value="2nd grade"/>
+                <element inactive_on_update="false" label="3rd Grade" sequence="2" value="3rd grade"/>
+                <element inactive_on_update="false" label="4th Grade" sequence="3" value="4th grade"/>
+                <element inactive_on_update="false" label="5th Grade" sequence="4" value="5th grade"/>
+                <element inactive_on_update="false" label="6th Grade" sequence="5" value="6th grade"/>
+                <element inactive_on_update="false" label="7th Grade" sequence="6" value="7th grade"/>
+                <element inactive_on_update="false" label="8th Grade" sequence="7" value="8th grade"/>
+                <element inactive_on_update="false" label="9th Grade" sequence="8" value="9th grade"/>
+                <element inactive_on_update="false" label="10th Grade" sequence="9" value="10th grade"/>
+                <element inactive_on_update="false" label="11th Grade" sequence="10" value="11th grade"/>
+                <element inactive_on_update="false" label="12th Grade No Diploma" sequence="11" value="12th grade no diploma"/>
+                <element inactive_on_update="false" label="High School Graduate" sequence="12" value="high school graduate"/>
+                <element inactive_on_update="false" label="GED or Equivalent" sequence="13" value="ged or equivalent"/>
+                <element inactive_on_update="false" label="Some College" sequence="14" value="some college"/>
+                <element inactive_on_update="false" label="Associate Degree" sequence="15" value="associate degree"/>
+                <element inactive_on_update="false" label="Bachelor Degree" sequence="16" value="bachelor degree"/>
+                <element inactive_on_update="false" label="Master's Degree" sequence="17" value="master's degree"/>
+                <element inactive_on_update="false" label="Professional Doctorate Degree" sequence="18" value="professional doctorate degree"/>
+                <element inactive_on_update="false" label="Academic Doctorate Degree" sequence="19" value="academic doctorate degree"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Who paid you?" max_length="40" name="who_paid_you" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Work Location City" max_length="40" name="work_location_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Work Location State" max_length="40" name="work_location_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Would you like to receive texts?" max_length="40" name="would_you_like_to_receive_texts" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip Code" max_length="40" name="zip_code" type="string"/>
+    </element>
+</database>

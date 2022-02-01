@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="sn_customerservice.consumer" name="sn_customerservice.consumer">a3c20ae3c303120095ccd02422d3ae8f</contains>
+        <role display_value="x_snc_unemployment.citizen" name="x_snc_unemployment.citizen">18a21e38dbc4d850afe2ac4e1396192d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>carol.rintamaa</sys_created_by>
+        <sys_created_on>2020-04-06 01:48:07</sys_created_on>
+        <sys_id>bf231a78dbc4d850afe2ac4e139619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_customerservice.consumer.x_snc_unemployment.citizen</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_user_role_contains_bf231a78dbc4d850afe2ac4e139619c9</sys_update_name>
+        <sys_updated_by>carol.rintamaa</sys_updated_by>
+        <sys_updated_on>2020-04-06 01:48:07</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

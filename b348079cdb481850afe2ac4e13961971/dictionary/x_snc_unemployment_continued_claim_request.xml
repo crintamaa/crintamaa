@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task_activity" label="Continued Claim Request" max_length="40" name="x_snc_unemployment_continued_claim_request" sizeclass="8" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Application Status" max_length="40" name="application_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business City" max_length="40" name="business_city" type="string"/>
+        <element label="Business Phone Number" max_length="40" name="business_phone_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Business State" max_length="40" name="business_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Street Address" max_length="40" name="business_street_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Zip Code" max_length="40" name="business_zip_code" type="string"/>
+        <element label="Company Name" max_length="40" name="company_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Consumer" max_length="32" name="consumer" reference="csm_consumer" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Consumer Name" max_length="32" name="consumer_name" reference="csm_consumer" type="reference"/>
+        <element label="Contact Person" max_length="40" name="contact_person" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of Application" max_length="40" name="date_of_application" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Did you do any work during the week claimed?" max_length="40" name="did_you_do_any_work_between_date_and_date" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Did you refuse any work last week?" max_length="40" name="did_you_refuse_any_work_last_week" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Do you have a date to return to full-time employment?" max_length="40" name="do_you_have_a_date_to_return_to_full_time_employment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" dependent="did_you_do_any_work_between_date_and_date" dependent_on_field="did_you_do_any_work_between_date_and_date" label="Employer Address" max_length="40" name="employer_address" type="string" use_dependent_field="true"/>
+        <element choice="1" label="Employer Phone" max_length="40" name="employer_phone" type="integer">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Method of application" max_length="40" name="method_of_application" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Did you look for work during the week claimed?" max_length="40" name="qual_q1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="10" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="20" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Were you available for work during the week claimed?" max_length="40" name="qual_q2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="10" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="20" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Where you physically able to work during the week Claimed?" max_length="40" name="qual_q3" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="10" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="20" value="no"/>
+            </choice>
+        </element>
+        <element label="Week Starting" max_length="40" name="search_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Certifying  for Claim number" max_length="32" name="unemployment" reference="x_snc_unemployment_unemployment" reference_qual="state=13^EQ" reference_qual_condition="state=13^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" dependent="did_you_do_any_work_between_date_and_date" dependent_on_field="did_you_do_any_work_between_date_and_date" label="Employer Phone" max_length="40" name="u_employerphone" type="string" use_dependent_field="true"/>
+        <element label="Please enter the last four digits of your Social Security Number to sign" max_length="40" name="u_last4ss" type="integer"/>
+        <element label="test" max_length="40" name="u_longint_1" type="longint"/>
+        <element label="Website Applied On" max_length="1024" name="website_applied_on" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Where did you apply to work?" max_length="40" name="where_did_you_apply_to_work" type="string"/>
+        <element attributes="edge_encryption_enabled=true" dependent="did_you_do_any_work_between_date_and_date" dependent_on_field="did_you_do_any_work_between_date_and_date" label="Where did you work?" max_length="40" name="where_did_you_work" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Where you available to work last week?" max_length="40" name="where_you_available_to_work_last_week" type="string">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="consumer_name"/>
+        </index>
+        <index name="index2">
+            <element name="unemployment"/>
+        </index>
+        <index name="index3">
+            <element name="consumer"/>
+        </index>
+    </element>
+</database>

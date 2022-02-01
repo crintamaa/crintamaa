@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_m2m_context_related_record_defn">
+    <sn_m2m_context_related_record_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <internal_name>x_snc_unemployment.492d1b6253d3201031cdddeeff7b12f5.25e08be9874d095005fd63583cbb35fe</internal_name>
+        <order>100</order>
+        <related_record_context display_value="adjudication">25e08be9874d095005fd63583cbb35fe</related_record_context>
+        <related_record_definition display_value="SLAs">492d1b6253d3201031cdddeeff7b12f5</related_record_definition>
+        <sys_class_name>sn_m2m_context_related_record_defn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 18:40:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>5a01472d874d095005fd63583cbb3572</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sn_m2m_context_related_record_defn_5a01472d874d095005fd63583cbb3572</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 18:40:16</sys_updated_on>
+    </sn_m2m_context_related_record_defn>
+</record_update>
