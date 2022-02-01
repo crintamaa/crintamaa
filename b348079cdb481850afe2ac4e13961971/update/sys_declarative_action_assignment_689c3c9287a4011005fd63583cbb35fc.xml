@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_declarative_action_assignment">
+    <sys_declarative_action_assignment action="INSERT_OR_UPDATE">
+        <action/>
+        <action_attributes/>
+        <action_name>create_case_unemploy</action_name>
+        <action_payload/>
+        <action_type>type</action_type>
+        <active>true</active>
+        <button_type>primary</button_type>
+        <client_action display_value="Case Type Selector">8d63aab398df5010f877d74f9f285e64</client_action>
+        <client_conditions/>
+        <client_conditions_on_fields/>
+        <client_script><![CDATA[function onClick() { }]]></client_script>
+        <confirmation_message/>
+        <confirmation_required>false</confirmation_required>
+        <create_access>false</create_access>
+        <declarative_action_render_mode/>
+        <declarative_action_type>uxf_client_action</declarative_action_type>
+        <delete_access>false</delete_access>
+        <dependency/>
+        <description/>
+        <design_icon/>
+        <enabled>true</enabled>
+        <field_name/>
+        <field_type>glide_date</field_type>
+        <form_fields_required>false</form_fields_required>
+        <form_position>action_bar</form_position>
+        <group/>
+        <group_by>false</group_by>
+        <icon/>
+        <label>Create Case Type</label>
+        <model display_value="Form">360935e9534723003eddddeeff7b127d</model>
+        <model_conditions/>
+        <model_field_required/>
+        <order>0</order>
+        <payload_map/>
+        <read_access>false</read_access>
+        <record_conditions/>
+        <record_selection_required>false</record_selection_required>
+        <required_roles/>
+        <requires_value>false</requires_value>
+        <script_condition>!current.isNewRecord() &amp;&amp;((Object.keys(JSON.parse(new sn_csm_case_types.CaseTypeProcessor().getCaseTypes(current.sys_class_name,current.sys_id))).length)&gt;0)</script_condition>
+        <server_script/>
+        <specificity>31</specificity>
+        <sys_class_name>sys_declarative_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 20:26:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>689c3c9287a4011005fd63583cbb35fc</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>create_case_unemploy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_declarative_action_assignment_689c3c9287a4011005fd63583cbb35fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 20:55:39</sys_updated_on>
+        <table>x_snc_unemployment_unemployment</table>
+        <tooltip/>
+        <ui_component/>
+        <view/>
+        <workspace/>
+        <write_access>false</write_access>
+    </sys_declarative_action_assignment>
+    <sys_translated_text action="delete_multiple" query="documentkey=689c3c9287a4011005fd63583cbb35fc"/>
+</record_update>

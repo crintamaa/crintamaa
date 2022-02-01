@@ -1,105 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Job Search Activity" section_id="088539c5dbac5490aeb456f9dc961932" sys_domain="global" table="x_snc_unemployment_continued_claim_request" version="3" view="workspace">
+    <sys_ui_section caption="Work Search History" section_id="088539c5dbac5490aeb456f9dc961932" sys_domain="global" table="x_snc_unemployment_continued_claim_request" version="3" view="workspace">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>search_date</element>
             <position>0</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-05-01 14:57:20</sys_created_on>
-            <sys_id>68977d89dbac5490aeb456f9dc961929</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-17 19:44:40</sys_created_on>
+            <sys_id>b09caaea8789c51005fd63583cbb359d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Job Search Activity" display_value="Job Search Activity" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:57:20</sys_updated_on>
+            <sys_ui_section caption="Work Search History" display_value="Work Search History" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 19:44:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>1</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-05-01 14:57:20</sys_created_on>
-            <sys_id>ec977d89dbac5490aeb456f9dc961929</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-17 19:44:40</sys_created_on>
+            <sys_id>389caaea8789c51005fd63583cbb359d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Job Search Activity" display_value="Job Search Activity" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:57:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>qual_q3</element>
-            <position>2</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-05-01 14:57:20</sys_created_on>
-            <sys_id>64977d89dbac5490aeb456f9dc96192a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Job Search Activity" display_value="Job Search Activity" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:57:20</sys_updated_on>
+            <sys_ui_section caption="Work Search History" display_value="Work Search History" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 19:44:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-05-01 14:57:20</sys_created_on>
-            <sys_id>e8977d89dbac5490aeb456f9dc96192a</sys_id>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-17 19:44:40</sys_created_on>
+            <sys_id>bc9caaea8789c51005fd63583cbb359d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Job Search Activity" display_value="Job Search Activity" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:57:20</sys_updated_on>
+            <sys_ui_section caption="Work Search History" display_value="Work Search History" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 19:44:40</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
-            <position>4</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-05-01 14:57:20</sys_created_on>
-            <sys_id>60977d89dbac5490aeb456f9dc96192b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Job Search Activity" display_value="Job Search Activity" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:57:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>qual_q2</element>
-            <position>5</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-05-01 14:57:20</sys_created_on>
-            <sys_id>e4977d89dbac5490aeb456f9dc96192b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Job Search Activity" display_value="Job Search Activity" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:57:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>qual_q1</element>
-            <position>6</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-05-01 14:57:20</sys_created_on>
-            <sys_id>6c977d89dbac5490aeb456f9dc96192b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Job Search Activity" display_value="Job Search Activity" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">088539c5dbac5490aeb456f9dc961932</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:57:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>Job Search Activity</caption>
+            <caption>Work Search History</caption>
             <header>false</header>
             <name>x_snc_unemployment_continued_claim_request</name>
             <roles/>
@@ -109,18 +53,18 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>088539c5dbac5490aeb456f9dc961932</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name>x_snc_unemployment_continued_claim_request</sys_name>
             <sys_overrides/>
             <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
             <sys_policy/>
             <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
             <sys_update_name>sys_ui_section_088539c5dbac5490aeb456f9dc961932</sys_update_name>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:57:18</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 19:44:38</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Workspace" name="workspace">267f23b5dbd30010afe2ac4e1396197c</view>
+            <view display_value="Workspace" name="workspace">efaff9961b072010d63811fc2d4bcb8a</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

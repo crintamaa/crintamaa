@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Situation Details" section_id="2f5a7e578718415405fd63583cbb35d1" sys_domain="global" table="x_snc_unemployment_unemployment" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_selfemployed</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 21:56:32</sys_created_on>
+            <sys_id>1f1bbed78718415405fd63583cbb3583</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Details" display_value="Situation Details" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">2f5a7e578718415405fd63583cbb35d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 21:56:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>have_you_applied_for_unemployment_in_any_other_state_in_the_last_12_months</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 21:56:32</sys_created_on>
+            <sys_id>931bbed78718415405fd63583cbb3584</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Details" display_value="Situation Details" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">2f5a7e578718415405fd63583cbb35d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 21:56:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>have_you_refused_an_offer_to_work_since_your_last_day_of_employment</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 21:56:32</sys_created_on>
+            <sys_id>2b1bbed78718415405fd63583cbb3584</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Details" display_value="Situation Details" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">2f5a7e578718415405fd63583cbb35d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 21:56:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 21:56:32</sys_created_on>
+            <sys_id>2f1bbed78718415405fd63583cbb359d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Details" display_value="Situation Details" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">2f5a7e578718415405fd63583cbb35d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 21:56:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>are_you_presently_attending_school_or_training</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 21:56:32</sys_created_on>
+            <sys_id>a31bbed78718415405fd63583cbb359e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Details" display_value="Situation Details" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">2f5a7e578718415405fd63583cbb35d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 21:56:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>can_you_accept_full_time_work_immediately</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 21:56:32</sys_created_on>
+            <sys_id>2b1bbed78718415405fd63583cbb359e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Details" display_value="Situation Details" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">2f5a7e578718415405fd63583cbb35d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 21:56:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>have_you_worked_for_any_employer_since_april_2020</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 21:56:32</sys_created_on>
+            <sys_id>af1bbed78718415405fd63583cbb359e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Details" display_value="Situation Details" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">2f5a7e578718415405fd63583cbb35d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 21:56:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Situation Details</caption>
+            <header>false</header>
+            <name>x_snc_unemployment_unemployment</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 21:53:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f5a7e578718415405fd63583cbb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_unemployment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_section_2f5a7e578718415405fd63583cbb35d1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 21:53:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">efaff9961b072010d63811fc2d4bcb8a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
         <client_scripts_access>true</client_scripts_access>
-        <configuration_access>false</configuration_access>
+        <configuration_access>true</configuration_access>
         <create_access>true</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>true</delete_access>
@@ -18,21 +18,21 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Case" name="sn_customerservice_case">a37ceecc1be3c410f4aca9362a4bcb75</super_class>
+        <super_class display_value="Case" name="sn_customerservice_case">d0d62ebe1b036010003f54292d4bcb94</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>carol.rintamaa</sys_created_by>
         <sys_created_on>2020-04-04 16:52:02</sys_created_on>
         <sys_id>d1ee0398db881850afe2ac4e1396197a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Unemployment</sys_name>
         <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
         <sys_policy/>
         <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
         <sys_update_name>sys_db_object_d1ee0398db881850afe2ac4e1396197a</sys_update_name>
-        <sys_updated_by>carol.rintamaa</sys_updated_by>
-        <sys_updated_on>2020-04-04 16:52:03</sys_updated_on>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-01-25 22:38:23</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>

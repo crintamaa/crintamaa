@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="driver_s_license_or_state_id_state" table="x_snc_unemployment_unemployment" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>driver_s_license_or_state_id_state</element>
+            <name>x_snc_unemployment_unemployment</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_id>951c62938794415405fd63583cbb3568</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>driver_s_license_or_state_id_state</sys_name>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_choice_x_snc_unemployment_unemployment_driver_s_license_or_state_id_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AL</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d1c62938794415405fd63583cbb3567</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>al</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AK</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>551c62938794415405fd63583cbb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ak</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AZ</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>991c62938794415405fd63583cbb3576</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>az</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AR</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd1c62938794415405fd63583cbb357d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CA</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>151c62938794415405fd63583cbb3585</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ca</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CO</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>591c62938794415405fd63583cbb358c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>co</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CT</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a91c62938794415405fd63583cbb35c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ct</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DE</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed1c62938794415405fd63583cbb35cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>de</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FL</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>251c62938794415405fd63583cbb35d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>fl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GA</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>211c62938794415405fd63583cbb35e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ga</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HI</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>651c62938794415405fd63583cbb35ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>hi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ID</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>611ca2938794415405fd63583cbb3503</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>id</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IL</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d1ca2938794415405fd63583cbb3516</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>il</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IN</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a11ca2938794415405fd63583cbb351e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>in</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IA</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e51ca2938794415405fd63583cbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KS</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d1ca2938794415405fd63583cbb352c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KY</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>611ca2938794415405fd63583cbb3534</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ky</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LA</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>17</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a51ca2938794415405fd63583cbb353b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>la</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ME</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>18</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e91ca2938794415405fd63583cbb3542</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>me</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MD</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>19</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>211ca2938794415405fd63583cbb354a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>md</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MA</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>651ca2938794415405fd63583cbb3551</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ma</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MI</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>21</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a91ca2938794415405fd63583cbb3558</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>mi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MN</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>22</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed1ca2938794415405fd63583cbb355f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>mn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MS</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>23</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>251ca2938794415405fd63583cbb3567</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MO</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>24</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>691ca2938794415405fd63583cbb356e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>mo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MT</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>25</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad1ca2938794415405fd63583cbb3575</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>mt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NE</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>26</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e11ca2938794415405fd63583cbb357d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ne</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NV</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>27</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>291ca2938794415405fd63583cbb3584</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>nv</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NH</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>28</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d1ca2938794415405fd63583cbb358b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>nh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NJ</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>29</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a11ca2938794415405fd63583cbb3593</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>nj</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NM</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e51ca2938794415405fd63583cbb359a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>nm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NY</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>31</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d1ca2938794415405fd63583cbb35a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:52</sys_updated_on>
+            <value>ny</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NC</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>32</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>611ca2938794415405fd63583cbb35a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>nc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ND</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>33</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a51ca2938794415405fd63583cbb35b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>nd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OH</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>34</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e91ca2938794415405fd63583cbb35b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>oh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OK</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>35</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>211ca2938794415405fd63583cbb35bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>ok</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OR</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>36</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>651ca2938794415405fd63583cbb35c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>or</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PA</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>37</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a91ca2938794415405fd63583cbb35cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>pa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RI</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>38</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed1ca2938794415405fd63583cbb35d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>ri</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SC</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>39</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>251ca2938794415405fd63583cbb35dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>sc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SD</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>691ca2938794415405fd63583cbb35e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>sd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TN</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>41</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>651ca2938794415405fd63583cbb35f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>tn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TX</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>42</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a91ca2938794415405fd63583cbb35fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>tx</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UT</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>43</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed1ce2938794415405fd63583cbb3505</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>ut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VT</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>44</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>351ce2938794415405fd63583cbb350d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>vt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VA</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>45</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>791ce2938794415405fd63583cbb3514</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>va</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WA</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>46</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd1ce2938794415405fd63583cbb351b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>wa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WV</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>47</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f11ce2938794415405fd63583cbb3523</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>wv</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WI</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>48</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>391ce2938794415405fd63583cbb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>wi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>driver_s_license_or_state_id_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WY</label>
+            <language>en</language>
+            <name>x_snc_unemployment_unemployment</name>
+            <sequence>49</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d1ce2938794415405fd63583cbb3531</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:53</sys_updated_on>
+            <value>wy</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

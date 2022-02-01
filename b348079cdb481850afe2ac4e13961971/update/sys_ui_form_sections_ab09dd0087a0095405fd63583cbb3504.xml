@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ab09dd0087a0095405fd63583cbb3504" sys_domain="global" table="x_snc_unemployment_adjudication_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-15 22:43:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b09dd0087a0095405fd63583cbb352c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_adjudication_case" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">ab09dd0087a0095405fd63583cbb3504</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">e309dd0087a0095405fd63583cbb3522</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-15 22:43:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-15 22:43:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb09dd0087a0095405fd63583cbb3521</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_adjudication_case" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">ab09dd0087a0095405fd63583cbb3504</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">a709dd0087a0095405fd63583cbb351b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-15 22:43:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-15 22:43:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a309dd0087a0095405fd63583cbb350e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_adjudication_case" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">ab09dd0087a0095405fd63583cbb3504</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">2f09dd0087a0095405fd63583cbb3506</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-15 22:43:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-15 22:43:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef09dd0087a0095405fd63583cbb3514</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_adjudication_case" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">ab09dd0087a0095405fd63583cbb3504</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">ab09dd0087a0095405fd63583cbb350e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-15 22:43:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-15 22:43:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af09dd0087a0095405fd63583cbb351a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_adjudication_case" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">ab09dd0087a0095405fd63583cbb3504</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_adjudication_case" sys_domain="global" view="4a18ae361b436010003f54292d4bcba8">e709dd0087a0095405fd63583cbb3515</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-15 22:43:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_unemployment_adjudication_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-15 22:43:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab09dd0087a0095405fd63583cbb3504</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_adjudication_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ab09dd0087a0095405fd63583cbb3504</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-15 22:43:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="Case" name="case">4a18ae361b436010003f54292d4bcba8</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

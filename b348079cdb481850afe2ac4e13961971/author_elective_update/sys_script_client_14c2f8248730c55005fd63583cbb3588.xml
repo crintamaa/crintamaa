@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>action_status</field>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>Rename employer if appellant</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+ If (g_form.getValue('u_whoisappealing')  =='employer');
+	{
+g_form.setLabelOf('account','Appellant');    
+}
+  
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 19:33:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>14c2f8248730c55005fd63583cbb3588</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Rename employer if appellant</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_script_client_14c2f8248730c55005fd63583cbb3588</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 22:12:50</sys_updated_on>
+        <table>x_snc_unemployment_appeals</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>sys_script_client_14c2f8248730c55005fd63583cbb3588</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;action_status&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Rename employer if appellant&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+ If (g_form.getValue('u_whoisappealing')  =='employer');
+	{
+g_form.setLabelOf('account','Appellant');    
+}
+  
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-12-29 19:33:50&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;14c2f8248730c55005fd63583cbb3588&lt;/sys_id&gt;&lt;sys_mod_count&gt;8&lt;/sys_mod_count&gt;&lt;sys_name&gt;Rename employer if appellant&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Unemployment application" source="x_snc_unemployment"&gt;b348079cdb481850afe2ac4e13961971&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Unemployment application"&gt;b348079cdb481850afe2ac4e13961971&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_14c2f8248730c55005fd63583cbb3588&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-12-29 22:12:50&lt;/sys_updated_on&gt;&lt;table&gt;x_snc_unemployment_appeals&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2018537561</payload_hash>
+        <record_name>Rename employer if appellant</record_name>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 22:12:50</sys_created_on>
+        <sys_id>0e4851e887b4c55005fd63583cbb35de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e0840c8ac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 22:12:50</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>424851e8b4b4c550e89595b235f982de</update_guid>
+        <update_guid_history>424851e8b4b4c550e89595b235f982de:-2018537561,e4871d289bb4c550fc4aa747fa8e94d8:549748095,1476596482b4c550e8cb4a1c0a25f08f:1992018335,5a9c81a84e34c550fac5872d0eb0c932:1071235455,7b38f8240e70c550918df63ccc47aceb:1827489592,44c57c6c6330c5508ea3cb4d3f1e67ed:1536528238,7075f42c9730c550b0c8bdea2a694ff4:-807693808,f254b0a8f630c550acb5ac4a94c3ef8d:1827489592,8de33c283f30c550e6447b3377d35494:-1308893546</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-01 23:56:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>7bfc76df249d439e95f628688193fd49</sys_id>
+        <sys_metadata>14c2f8248730c55005fd63583cbb3588</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rename employer if appellant</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent display_value="Appeals">72629f848738c15005fd63583cbb354d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>sys_script_client_14c2f8248730c55005fd63583cbb3588</sys_update_name>
+        <sys_update_version display_value="sys_script_client_14c2f8248730c55005fd63583cbb3588">0e4851e887b4c55005fd63583cbb35de</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-01 23:56:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

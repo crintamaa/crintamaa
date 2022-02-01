@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_pisn_multiform_sp_instance">
+    <x_pisn_multiform_sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <instructions><![CDATA[Please use the &#34;Open in platform&#34; link from the hamburger menu on this dialog to configure this widget.]]></instructions>
+        <order>1</order>
+        <progression_method>full</progression_method>
+        <record/>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">b02233f58719451005fd63583cbb3550</sp_column>
+        <sp_widget display_value="Multiform">52da025fdb29d300d19b468b3a961947</sp_widget>
+        <success_page display_value="csm_ticket">csm_ticket</success_page>
+        <sys_class_name>x_pisn_multiform_sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-28 03:09:02</sys_created_on>
+        <sys_id>f722bfb58719451005fd63583cbb355d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CR Unemployment</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>x_pisn_multiform_sp_instance_f722bfb58719451005fd63583cbb355d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-28 03:09:59</sys_updated_on>
+        <table>x_snc_unemployment_unemployment</table>
+        <title>CR Unemployment</title>
+        <url/>
+        <view display_value="citizen" name="citizen">eafa4d3f87d4455405fd63583cbb35bb</view>
+        <widget_parameters/>
+    </x_pisn_multiform_sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=f722bfb58719451005fd63583cbb355d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>x_pisn_multiform_sp_instance_f722bfb58719451005fd63583cbb355d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_pisn_multiform_sp_instance"&gt;&lt;x_pisn_multiform_sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;instructions&gt;&lt;![CDATA[Please use the &amp;#34;Open in platform&amp;#34; link from the hamburger menu on this dialog to configure this widget.]]&gt;&lt;/instructions&gt;&lt;order&gt;1&lt;/order&gt;&lt;progression_method&gt;full&lt;/progression_method&gt;&lt;record/&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;b02233f58719451005fd63583cbb3550&lt;/sp_column&gt;&lt;sp_widget display_value="Multiform"&gt;52da025fdb29d300d19b468b3a961947&lt;/sp_widget&gt;&lt;success_page display_value="csm_ticket"&gt;csm_ticket&lt;/success_page&gt;&lt;sys_class_name&gt;x_pisn_multiform_sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-01-28 03:09:02&lt;/sys_created_on&gt;&lt;sys_id&gt;f722bfb58719451005fd63583cbb355d&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;CR Unemployment&lt;/sys_name&gt;&lt;sys_package display_value="Unemployment application" source="x_snc_unemployment"&gt;b348079cdb481850afe2ac4e13961971&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Unemployment application"&gt;b348079cdb481850afe2ac4e13961971&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_pisn_multiform_sp_instance_f722bfb58719451005fd63583cbb355d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-01-28 03:09:59&lt;/sys_updated_on&gt;&lt;table&gt;x_snc_unemployment_unemployment&lt;/table&gt;&lt;title&gt;CR Unemployment&lt;/title&gt;&lt;url/&gt;&lt;view display_value="citizen" name="citizen"&gt;eafa4d3f87d4455405fd63583cbb35bb&lt;/view&gt;&lt;widget_parameters/&gt;&lt;/x_pisn_multiform_sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f722bfb58719451005fd63583cbb355d"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1860850799</payload_hash>
+        <record_name>CR Unemployment</record_name>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-28 03:09:59</sys_created_on>
+        <sys_id>f1627ff58719451005fd63583cbb3503</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e9ea942290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-28 03:09:59</sys_updated_on>
+        <type>Instance of Multiform</type>
+        <update_guid>3562f3f531194510a96deff1f3f87a32</update_guid>
+        <update_guid_history>3562f3f531194510a96deff1f3f87a32:-1860850799,3322bfb53919451061f66e11fdb96c60:-1944102203</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CR Unemployment">5d2e078e87d9c51005fd63583cbb35b1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-28 19:10:03</sys_created_on>
+        <sys_db_object display_value="" name="x_pisn_multiform_sp_instance">x_pisn_multiform_sp_instance</sys_db_object>
+        <sys_id>04605168bd444c98a52b69d66b241d90</sys_id>
+        <sys_metadata>f722bfb58719451005fd63583cbb355d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CR Unemployment</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>x_pisn_multiform_sp_instance_f722bfb58719451005fd63583cbb355d</sys_update_name>
+        <sys_update_version display_value="x_pisn_multiform_sp_instance_f722bfb58719451005fd63583cbb355d">f1627ff58719451005fd63583cbb3503</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-28 19:10:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

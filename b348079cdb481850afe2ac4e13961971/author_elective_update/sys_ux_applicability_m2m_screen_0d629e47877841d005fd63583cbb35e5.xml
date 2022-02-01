@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="DELETE">
+        <active>true</active>
+        <applicability display_value="Appeals">1b22960b877841d005fd63583cbb357f</applicability>
+        <order>0</order>
+        <screen display_value="Appeals Landing Page">55901607877841d005fd63583cbb3559</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 20:51:32</sys_created_on>
+        <sys_id>0d629e47877841d005fd63583cbb35e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_0d629e47877841d005fd63583cbb35e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 20:51:32</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>sys_ux_applicability_m2m_screen_0d629e47877841d005fd63583cbb35e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen"><sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Appeals">1b22960b877841d005fd63583cbb357f</applicability><order>0</order><screen display_value="Appeals Landing Page">55901607877841d005fd63583cbb3559</screen><sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-06 20:51:32</sys_created_on><sys_id>0d629e47877841d005fd63583cbb35e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package><sys_policy/><sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope><sys_update_name>sys_ux_applicability_m2m_screen_0d629e47877841d005fd63583cbb35e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-06 20:51:32</sys_updated_on></sys_ux_applicability_m2m_screen></record_update>]]></payload>
+        <payload_hash>-732328991</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 20:51:32</sys_created_on>
+        <sys_id>49629e47877841d005fd63583cbb35e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e31293ade0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 20:51:32</sys_updated_on>
+        <type>Screen Applicability</type>
+        <update_guid>41629e47157841d05d671f42ba29f5e8</update_guid>
+        <update_guid_history>41629e47157841d05d671f42ba29f5e8:-732328991</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-06 20:55:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_screen">sys_ux_applicability_m2m_screen</sys_db_object>
+        <sys_id>212e3f81225042bd845c6db7f2ea0249</sys_id>
+        <sys_metadata>0d629e47877841d005fd63583cbb35e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_screen_0d629e47877841d005fd63583cbb35e5</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_screen_0d629e47877841d005fd63583cbb35e5">49629e47877841d005fd63583cbb35e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-06 20:55:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

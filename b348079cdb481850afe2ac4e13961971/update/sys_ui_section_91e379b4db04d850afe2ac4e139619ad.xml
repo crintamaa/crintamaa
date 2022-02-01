@@ -3,142 +3,156 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>salary_rate</element>
             <position>0</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>58fc66b4db88d850afe2ac4e1396199b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>1aa450f9879c011405fd63583cbb355a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>rate_per</element>
             <position>1</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>dcfc66b4db88d850afe2ac4e1396199b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>d2a450f9879c011405fd63583cbb355b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reason_for_separation</element>
             <position>2</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>54fc66b4db88d850afe2ac4e1396199c</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>5aa450f9879c011405fd63583cbb355b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_gross_earnings_this_week</element>
             <position>3</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>d8fc66b4db88d850afe2ac4e1396199c</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>dea450f9879c011405fd63583cbb355b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>4</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>50fc66b4db88d850afe2ac4e1396199d</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>56a450f9879c011405fd63583cbb355c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>self_employed_or_self_employed_inthe_part_year</element>
             <position>5</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>d4fc66b4db88d850afe2ac4e1396199d</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>daa450f9879c011405fd63583cbb355c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>have_you_received_or_will_you_received_the_following</element>
             <position>6</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>5cfc66b4db88d850afe2ac4e1396199d</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>52a450f9879c011405fd63583cbb355d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>are_you_scheduled_to_return_to_work_for_this_employer</element>
             <position>7</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>d0fc66b4db88d850afe2ac4e1396199e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>d6a450f9879c011405fd63583cbb355d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>8</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>58fc66b4db88d850afe2ac4e1396199e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>5ea450f9879c011405fd63583cbb355d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
             <position>9</position>
-            <sys_created_by>carol.rintamaa</sys_created_by>
-            <sys_created_on>2020-04-06 03:40:39</sys_created_on>
-            <sys_id>dcfc66b4db88d850afe2ac4e1396199e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>d2a450f9879c011405fd63583cbb355e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-04-06 03:40:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inline_checklist_macro</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-08 17:58:24</sys_created_on>
+            <sys_id>5aa450f9879c011405fd63583cbb355e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Checklist">ade76621c3200200e280dccdf3d3ae9a</sys_ui_formatter>
+            <sys_ui_section caption="Employment Detail" display_value="Employment Detail" name="x_snc_unemployment_unemployment" sys_domain="global" view="Default view">91e379b4db04d850afe2ac4e139619ad</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-08 17:58:24</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Employment Detail</caption>

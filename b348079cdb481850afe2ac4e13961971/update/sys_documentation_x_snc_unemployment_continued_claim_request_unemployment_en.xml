@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="unemployment" label="Unemployment Claim number" language="en" table="x_snc_unemployment_continued_claim_request">
+    <sys_documentation element="unemployment" label="Certifying  for Claim number" language="en" table="x_snc_unemployment_continued_claim_request">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>unemployment</element>
             <help/>
             <hint/>
-            <label>Unemployment Claim number</label>
+            <label>Certifying  for Claim number</label>
             <language>en</language>
             <name>x_snc_unemployment_continued_claim_request</name>
-            <plural>Unemployment Claim numbers</plural>
+            <plural>Certifying  for Claim numbers</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>tom.cullen</sys_created_by>
             <sys_created_on>2020-05-01 12:40:21</sys_created_on>
             <sys_id>c6381905db6898103763d8c75e96196d</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_name>Unemployment Claim number</sys_name>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Certifying  for Claim number</sys_name>
             <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
             <sys_policy/>
             <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
             <sys_update_name>sys_documentation_x_snc_unemployment_continued_claim_request_unemployment_en</sys_update_name>
-            <sys_updated_by>carol.rintamaa</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:57:19</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 19:56:28</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

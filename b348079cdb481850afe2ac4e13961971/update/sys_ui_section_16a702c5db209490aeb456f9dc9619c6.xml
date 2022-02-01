@@ -8,7 +8,7 @@
             <sys_id>96a702c5db209490aeb456f9dc9619c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Weekly Certification" display_value="Weekly Certification" name="x_snc_unemployment_payments" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">16a702c5db209490aeb456f9dc9619c6</sys_ui_section>
+            <sys_ui_section caption="Weekly Certification" display_value="Weekly Certification" name="x_snc_unemployment_payments" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">16a702c5db209490aeb456f9dc9619c6</sys_ui_section>
             <sys_updated_by>carol.rintamaa</sys_updated_by>
             <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
             <sys_user/>
@@ -22,7 +22,7 @@
             <sys_id>1ea702c5db209490aeb456f9dc9619c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Weekly Certification" display_value="Weekly Certification" name="x_snc_unemployment_payments" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">16a702c5db209490aeb456f9dc9619c6</sys_ui_section>
+            <sys_ui_section caption="Weekly Certification" display_value="Weekly Certification" name="x_snc_unemployment_payments" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">16a702c5db209490aeb456f9dc9619c6</sys_ui_section>
             <sys_updated_by>carol.rintamaa</sys_updated_by>
             <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
             <sys_user/>
@@ -36,7 +36,7 @@
             <sys_id>92a702c5db209490aeb456f9dc9619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Weekly Certification" display_value="Weekly Certification" name="x_snc_unemployment_payments" sys_domain="global" view="267f23b5dbd30010afe2ac4e1396197c">16a702c5db209490aeb456f9dc9619c6</sys_ui_section>
+            <sys_ui_section caption="Weekly Certification" display_value="Weekly Certification" name="x_snc_unemployment_payments" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">16a702c5db209490aeb456f9dc9619c6</sys_ui_section>
             <sys_updated_by>carol.rintamaa</sys_updated_by>
             <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
             <sys_user/>
@@ -64,7 +64,7 @@
             <sys_updated_on>2020-05-01 16:07:38</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Workspace" name="workspace">267f23b5dbd30010afe2ac4e1396197c</view>
+            <view display_value="Workspace" name="workspace">efaff9961b072010d63811fc2d4bcb8a</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

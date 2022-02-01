@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function($scope,spModal, spUtil, $window,$location) {
+
+    var c = this;
+	c.hideHeader = c.options.hide_header == "true";
+
+    $scope.$on('record.updated', function(name, data) {
+        spUtil.update($scope);
+    });
+
+    c.openLargeInfo = function(title, content) {
+        spModal.open({
+            title: title,
+            buttons: [],
+            message: content,
+            size: 'lg'
+        });
+    };
+	
+	c.parentRedirect = function(url){
+		$window.location.href = url;
+	};
+	
+	if (c.data.wotTable == "wm_task") {
+		 var wotUrl = "id=fsm_ticket_task&table=wm_task&sys_id="+c.data.wotSysId;
+		 $location.search(wotUrl);
+	}
+	
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.case-fields{&#13;
+  overflow-wrap: break-word;&#13;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>continued claim Ticket Fields</name>
+        <option_schema>[{"name":"pickup_msg","section":"other","label":"Pickup message","type":"string"},{"name":"textlimitto","section":"other","default_value":"80","label":"Text Limit To","type":"integer"}]</option_schema>
+        <public>false</public>
+        <roles>snc_external,snc_internal</roles>
+        <script><![CDATA[(function(){
+	data.wotTable = "";
+	var wottableName = "";
+	wottableName = $sp.getParameter("table");
+	if(wottableName=="wm_task"){
+		data.wotTable = "wm_task";
+		data.wotSysId = $sp.getParameter("sys_id");
+	}
+	var gr = $sp.getRecord();
+	var table = gr.getTableName();
+	data.canRead = gr.canRead();	
+	if (!data.canRead) 
+		return;
+	var page_id = $sp.getParameter("id");
+	data.page_id = page_id;
+	var agent = "";
+	var a = $sp.getField(gr, 'assigned_to');
+	if (a != null)
+		agent = a.display_value;
+	var list = "number,assigned_to,priority,state,contract,entitlement";
+	
+	var consumer = $sp.getField(gr, 'consumer');
+	if(consumer != null)
+		list += ",consumer";
+	else
+		list += ",account,contact";
+	
+	if(table == 'sn_customerservice_case'){		
+		list += ",asset,product";						
+	}
+	else if (table == 'csm_order_case')
+		list += ",order_case";
+	else if(table == 'customer_project_task')
+		list += ",parent,short_description,start_date,end_date,work_start,work_end,status,percent_complete";
+	
+	var project = $sp.getField(gr,'project');
+	if(project != null)
+		list += ",project";
+	var projectTask = $sp.getField(gr,'project_task');
+	if(projectTask != null)
+		list += ",project_task";
+	
+	if(table == 'sn_customerservice_task')
+		list = "number,assigned_to,parent,state,description";
+	
+	if (gr.getValue("sys_mod_count") > 0)
+		list += ",sys_updated_on";
+	
+	if(table == 'sn_complaint_case')
+		{
+			list = "number,assigned_to,state,stage,priority" + ((consumer != null) ? ",consumer" : ",account,contact") + ",complaint_type,product,location,issue_occured_at,sys_updated_on,expected_outcome,description";
+		} else if(table == 'sn_onboarding_case')
+		{
+			list = "number,assigned_to,state,stage,priority" + (consumer != null ? ",consumer" : ",account,contact") + ",product,sys_updated_on,description";
+		}
+	
+	var cols = list.split(',');
+	var fields = [];
+	
+	for (i = 0; i < cols.length; ++i) {
+		var field = $sp.getField(gr,cols[i]);
+    fields.push({
+			"label": field ? field.label : "",
+			"value":field ? field.value : "",
+			"display_value":field ? field.display_value : "",
+			"type":field ? field.type : "",
+			"column_name": cols[i]
+		});
+	}
+
+	data.tableLabel = options.title || gr.getLabel();
+	data.fields = fields;
+	data.agent = agent;
+	data.table = table;
+	data.sys_id = gr.getUniqueValue();
+	data.limit = options.textlimitto;
+	data.parent_case_url = "?id=csm_ticket&view=csp"+"&table="+gr.parent.sys_class_name+"&sys_id="+gr.parent;
+	
+	var state = gr.getValue('state');
+	if(input)
+		data.hide_info_messages = input.hide_info_messages?true:false;
+	else
+		data.hide_info_messages = options.hide_info_messages == 'true';
+	if(state == '18' && !data.hide_info_messages)
+		gs.addInfoMessage(gs.getMessage("This case requires additional information from you."));
+})();
+
+]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 21:13:19</sys_created_on>
+        <sys_id>6cf370228755c91005fd63583cbb3500</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>continued claim Ticket Fields</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sp_widget_6cf370228755c91005fd63583cbb3500</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-29 21:13:39</sys_updated_on>
+        <template><![CDATA[<div ng-if="data.canRead" class="panel panel-primary b">
+	<div class="panel-heading" ng-if="::!c.hideHeader">
+		<h2 class="panel-title">${{{data.tableLabel}} details}</h2>
+	</div>
+	<div class="panel-body">
+		<div ng-if="data.fields.length > 0">
+			<div class="row case-fields">
+				<div ng-class="{'col-md-6' : field.column_name != 'description' && field.column_name != 'expected_outcome', {{::field.column_name}}: c.options.add_columnname_as_class && c.options.add_columnname_as_class == 'true'}" class="col-sm-12 col-xs-6 m-b" ng-repeat="field in data.fields" 
+             ng-if="field.value && (field.type != 'decimal' || field.type == 'decimal' && field.value != 0)" >
+					<label class="m-n">
+						<strong>{{field.label}}</strong>
+					</label>
+					<div ng-if="field.column_name == 'description' || field.column_name == 'expected_outcome'">
+						<div ng-if="field.display_value.length > data.limit">{{ field.display_value | limitTo: data.limit }} ...
+							<span aria-live="polite" class="m-b text-overflow-ellipsis">
+								<a href="javascript:void(0)" 
+                  ng-click="c.openLargeInfo(${field.label}, ${field.display_value})">
+                  Show more</a>
+							</span>
+						</div>
+						<div ng-if="field.display_value.length <= data.limit">{{field.display_value}}</div>
+					</div>
+                  	<div ng-if="c.data.page_id== 'csm_case_task_ticket' && field.column_name == 'parent'">
+						<div>
+							<a href="javascript:void(0)" ng-click="c.parentRedirect(c.data.parent_case_url)">
+                              {{field.display_value}}
+                          </a>
+						</div>
+					</div>
+					<div ng-if="field.column_name != 'description' && field.column_name != 'expected_outcome' && field.column_name != 'parent'">
+						<span ng-switch="field.type">
+							<div ng-switch-when="glide_date_time" title="{{field.display_value}}">
+								<sn-time-ago timestamp="::field.value" />
+							</div>
+							<div ng-switch-default >{{field.display_value}}</div>
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></template>
+    </sp_widget>
+</record_update>

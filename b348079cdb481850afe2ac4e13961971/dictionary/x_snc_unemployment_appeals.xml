@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="sn_customerservice_case" label="Appeals" max_length="40" name="x_snc_unemployment_appeals" sizeclass="5" type="collection">
+        <element label="Adjudication History" max_length="32" name="adjudication_history" reference="x_snc_unemployment_adjudication_case" type="reference"/>
+        <element label="Claim History" max_length="32" name="claim_history" reference="x_snc_unemployment_unemployment" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Appeal Type" max_length="40" name="u_appeal_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Non Monetary" sequence="0" value="non monetary"/>
+                <element inactive_on_update="false" label="Late" sequence="1" value="late"/>
+                <element inactive_on_update="false" label="Monetary" sequence="2" value="monetary"/>
+                <element inactive_on_update="false" label="Miscellaneous" sequence="3" value="miscellaneous"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="not started" label="Hearing Status" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Not Started" sequence="0" value="not started"/>
+                <element inactive_on_update="false" label="Prepared" sequence="0" value="prepared"/>
+                <element inactive_on_update="false" label="Scheduled" sequence="1" value="scheduled"/>
+                <element inactive="true" inactive_on_update="true" label="Work In Progress" sequence="1" value="work in progress"/>
+                <element inactive_on_update="false" label="Reschedule" sequence="2" value="Reschedule"/>
+                <element inactive_on_update="false" label="Conducted" sequence="3" value="Conducted"/>
+                <element inactive_on_update="false" label="Continued" sequence="4" value="Continued"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="call to action" label="Prepare Appeal Documents" max_length="40" name="u_choice_5" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Call to Action" sequence="0" value="call to action"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="call to action" label="Conduct Hearing" max_length="40" name="u_choice_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Call to Action" sequence="0" value="call to action"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="call to action" label="Proof Reading" max_length="40" name="u_choice_7" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Call to Action" sequence="0" value="call to action"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Scheduled Hearing" max_length="40" name="u_scheduled_hearing" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Who is appealing?" max_length="40" name="u_whoisappealing" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Employer" sequence="0" value="employer"/>
+                <element inactive_on_update="false" label="Claimant" sequence="1" value="claimant"/>
+            </choice>
+        </element>
+    </element>
+</database>

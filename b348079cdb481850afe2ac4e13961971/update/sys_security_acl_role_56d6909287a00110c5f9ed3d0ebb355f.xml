@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>brian.clauzel@snc</sys_created_by>
+        <sys_created_on>2021-12-22 17:40:48</sys_created_on>
+        <sys_id>56d6909287a00110c5f9ed3d0ebb355f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_unemployment_unemployment.middle_initial.snc_external</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_security_acl display_value="x_snc_unemployment_unemployment.middle_initial">3bd0ee08876c095405fd63583cbb35ac</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_56d6909287a00110c5f9ed3d0ebb355f</sys_update_name>
+        <sys_updated_by>brian.clauzel@snc</sys_updated_by>
+        <sys_updated_on>2021-12-22 17:40:48</sys_updated_on>
+        <sys_user_role display_value="snc_external" name="snc_external">940ba702933002009c8579b4f47ffbe2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

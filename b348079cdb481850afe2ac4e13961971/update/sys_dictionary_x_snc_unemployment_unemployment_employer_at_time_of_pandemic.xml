@@ -9,7 +9,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Employer at time of Pandemic</column_label>
+        <column_label>Employer Name</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -49,14 +49,14 @@
         <sys_created_by>carol.rintamaa</sys_created_by>
         <sys_created_on>2020-04-04 16:52:04</sys_created_on>
         <sys_id>b5ee4398db881850afe2ac4e1396196c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Employer at time of Pandemic</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Employer Name</sys_name>
         <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
         <sys_policy/>
         <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_unemployment_unemployment_employer_at_time_of_pandemic</sys_update_name>
-        <sys_updated_by>carol.rintamaa</sys_updated_by>
-        <sys_updated_on>2020-04-04 16:52:04</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 19:48:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

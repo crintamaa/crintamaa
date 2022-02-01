@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="awa_queue">
     <awa_queue action="INSERT_OR_UPDATE">
         <active>true</active>
-        <average_wait_time>1970-01-02 00:20:46</average_wait_time>
+        <average_wait_time>1970-01-01 18:22:09</average_wait_time>
+        <ccc_source_id/>
         <condition/>
         <condition_mode>simple</condition_mode>
         <condition_script><![CDATA[(function executeCondition(/* glide record */ current) {  
@@ -13,6 +14,7 @@
         <external_id/>
         <initial_agent_response>Thank you for contacting support. I am looking into your question now and will be with you shortly.</initial_agent_response>
         <max_wait_time/>
+        <max_wait_time_message/>
         <name>Unemployment Claims</name>
         <number>QUE00015</number>
         <order>1</order>
@@ -23,14 +25,14 @@
         <sys_created_by>carol.rintamaa</sys_created_by>
         <sys_created_on>2020-04-06 12:43:51</sys_created_on>
         <sys_id>53292c4ddb841c50afe2ac4e139619af</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_name>Unemployment Claims</sys_name>
         <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
         <sys_policy/>
         <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
         <sys_update_name>awa_queue_53292c4ddb841c50afe2ac4e139619af</sys_update_name>
-        <sys_updated_by>john.jason</sys_updated_by>
-        <sys_updated_on>2020-05-18 14:43:06</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-02-01 01:12:07</sys_updated_on>
         <target_wait_time/>
         <use_condition>true</use_condition>
     </awa_queue>

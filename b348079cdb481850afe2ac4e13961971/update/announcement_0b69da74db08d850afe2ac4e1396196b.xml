@@ -16,12 +16,6 @@
         <public>true</public>
         <roles/>
         <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
-        <sn_communities_announcement_type/>
-        <sn_communities_forums/>
-        <sn_communities_notification>false</sn_communities_notification>
-        <sn_communities_notification_sent>false</sn_communities_notification_sent>
-        <sn_communities_portals>5b49418bdb4aa200b1f6f78eaf96195f</sn_communities_portals>
-        <sn_communities_selected_forums/>
         <summary>After filing a claim, it will take about 14 days to receive first payment. The additional $600 in federal benefits will be for weeks ending April 4 – July 31. DES is awaiting guidance for issuing those payments. Benefits owed will be paid retroactively.</summary>
         <sys_class_name>announcement</sys_class_name>
         <sys_created_by>admin</sys_created_by>

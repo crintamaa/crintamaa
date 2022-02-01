@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_pisn_multiform_child_form">
+    <x_pisn_multiform_child_form action="DELETE">
+        <active>true</active>
+        <align_self>stretch</align_self>
+        <apply_to>single_section</apply_to>
+        <description><![CDATA[<p>The state of Montana verifies the information provided.  It is important to report all money earned to avoid owing the state money or needing to appear in court. </p>]]></description>
+        <flex_basis>auto</flex_basis>
+        <flex_grow>0</flex_grow>
+        <flex_shrink>1</flex_shrink>
+        <form_section caption="Verify and Sign" display_value="Verify and Sign" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">109c6aea8789c51005fd63583cbb35fd</form_section>
+        <location>left</location>
+        <max_child_records>0</max_child_records>
+        <min_child_records>0</min_child_records>
+        <order>0</order>
+        <parent display_value="">41d5fe4b87fc41d005fd63583cbb35c0</parent>
+        <reference_to_parent/>
+        <sys_class_name>x_pisn_multiform_child_form</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-17 20:12:44</sys_created_on>
+        <sys_id>2b72faea87c9c51005fd63583cbb3539</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>x_pisn_multiform_child_form_2b72faea87c9c51005fd63583cbb3539</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-17 20:14:10</sys_updated_on>
+        <table/>
+        <title>Verify and Sign</title>
+        <view display_value="Workspace" name="workspace">efaff9961b072010d63811fc2d4bcb8a</view>
+    </x_pisn_multiform_child_form>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>x_pisn_multiform_child_form_2b72faea87c9c51005fd63583cbb3539</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_pisn_multiform_child_form"&gt;&lt;x_pisn_multiform_child_form action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;align_self&gt;stretch&lt;/align_self&gt;&lt;apply_to&gt;single_section&lt;/apply_to&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;The state of Montana verifies the information provided.  It is important to report all money earned to avoid owing the state money or needing to appear in court. &lt;/p&gt;]]&gt;&lt;/description&gt;&lt;flex_basis&gt;auto&lt;/flex_basis&gt;&lt;flex_grow&gt;0&lt;/flex_grow&gt;&lt;flex_shrink&gt;1&lt;/flex_shrink&gt;&lt;form_section caption="Verify and Sign" display_value="Verify and Sign" name="x_snc_unemployment_continued_claim_request" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a"&gt;109c6aea8789c51005fd63583cbb35fd&lt;/form_section&gt;&lt;location&gt;left&lt;/location&gt;&lt;max_child_records&gt;0&lt;/max_child_records&gt;&lt;min_child_records&gt;0&lt;/min_child_records&gt;&lt;order&gt;0&lt;/order&gt;&lt;parent display_value=""&gt;41d5fe4b87fc41d005fd63583cbb35c0&lt;/parent&gt;&lt;reference_to_parent/&gt;&lt;sys_class_name&gt;x_pisn_multiform_child_form&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-01-17 20:12:44&lt;/sys_created_on&gt;&lt;sys_id&gt;2b72faea87c9c51005fd63583cbb3539&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Unemployment application" source="x_snc_unemployment"&gt;b348079cdb481850afe2ac4e13961971&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Unemployment application"&gt;b348079cdb481850afe2ac4e13961971&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_pisn_multiform_child_form_2b72faea87c9c51005fd63583cbb3539&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-01-17 20:14:10&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;title&gt;Verify and Sign&lt;/title&gt;&lt;view display_value="Workspace" name="workspace"&gt;efaff9961b072010d63811fc2d4bcb8a&lt;/view&gt;&lt;/x_pisn_multiform_child_form&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2022188731</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-17 20:14:10</sys_created_on>
+        <sys_id>8d537a6e87c9c51005fd63583cbb35b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e69acf9bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-17 20:14:10</sys_updated_on>
+        <type>Child Form</type>
+        <update_guid>45537a6ed1c9c5102a39f970c94bc9b0</update_guid>
+        <update_guid_history>45537a6ed1c9c5102a39f970c94bc9b0:-2022188731,ef03722e89c9c5102e79d7ef1aa751cb:-144910829,c403762e32c9c5102269e3c00b5c0c71:-1597748369</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">fc8536e2870dc51005fd63583cbb35bd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-17 20:23:43</sys_created_on>
+        <sys_db_object display_value="" name="x_pisn_multiform_child_form">x_pisn_multiform_child_form</sys_db_object>
+        <sys_id>10090b52f6d047e7a34f269cd40177b9</sys_id>
+        <sys_metadata>2b72faea87c9c51005fd63583cbb3539</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>x_pisn_multiform_child_form_2b72faea87c9c51005fd63583cbb3539</sys_update_name>
+        <sys_update_version display_value="x_pisn_multiform_child_form_2b72faea87c9c51005fd63583cbb3539">8d537a6e87c9c51005fd63583cbb35b0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-17 20:23:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

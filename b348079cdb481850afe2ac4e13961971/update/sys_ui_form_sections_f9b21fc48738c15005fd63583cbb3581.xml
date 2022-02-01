@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f9b21fc48738c15005fd63583cbb3581" sys_domain="global" table="x_snc_unemployment_appeals" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79b21fc48738c15005fd63583cbb35a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_appeals" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">f9b21fc48738c15005fd63583cbb3581</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">31b21fc48738c15005fd63583cbb3597</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31b21fc48738c15005fd63583cbb358a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_appeals" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">f9b21fc48738c15005fd63583cbb3581</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">f9b21fc48738c15005fd63583cbb3583</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79b21fc48738c15005fd63583cbb35b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_appeals" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">f9b21fc48738c15005fd63583cbb3581</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">71b21fc48738c15005fd63583cbb35a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39b21fc48738c15005fd63583cbb3596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_appeals" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">f9b21fc48738c15005fd63583cbb3581</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">f1b21fc48738c15005fd63583cbb3591</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9b21fc48738c15005fd63583cbb3590</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_appeals" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">f9b21fc48738c15005fd63583cbb3581</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_unemployment_appeals" sys_domain="global" view="bb9470da87fff41005fd63583cbb3539">39b21fc48738c15005fd63583cbb358a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_unemployment_appeals</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-28 17:50:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9b21fc48738c15005fd63583cbb3581</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_appeals</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f9b21fc48738c15005fd63583cbb3581</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-28 17:50:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Major Case" name="major_case">bb9470da87fff41005fd63583cbb3539</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

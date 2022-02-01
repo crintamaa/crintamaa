@@ -8,7 +8,7 @@
             <sys_id>50ef071cdb881850afe2ac4e139619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="d9c4cd4777372300d7159b71a91061e6">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="a79470da87fff41005fd63583cbb3532">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
             <sys_updated_by>carol.rintamaa</sys_updated_by>
             <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
             <sys_user/>
@@ -22,7 +22,7 @@
             <sys_id>54ef471cdb881850afe2ac4e1396190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="d9c4cd4777372300d7159b71a91061e6">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="a79470da87fff41005fd63583cbb3532">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
             <sys_updated_by>carol.rintamaa</sys_updated_by>
             <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
             <sys_user/>
@@ -36,7 +36,7 @@
             <sys_id>d8ef471cdb881850afe2ac4e1396190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="d9c4cd4777372300d7159b71a91061e6">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="a79470da87fff41005fd63583cbb3532">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
             <sys_updated_by>carol.rintamaa</sys_updated_by>
             <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
             <sys_user/>
@@ -50,7 +50,7 @@
             <sys_id>50ef471cdb881850afe2ac4e1396190e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="d9c4cd4777372300d7159b71a91061e6">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="a79470da87fff41005fd63583cbb3532">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
             <sys_updated_by>carol.rintamaa</sys_updated_by>
             <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
             <sys_user/>
@@ -64,7 +64,7 @@
             <sys_id>d4ef471cdb881850afe2ac4e1396190e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="d9c4cd4777372300d7159b71a91061e6">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="a79470da87fff41005fd63583cbb3532">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
             <sys_updated_by>carol.rintamaa</sys_updated_by>
             <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
             <sys_user/>
@@ -78,7 +78,7 @@
             <sys_id>5cef471cdb881850afe2ac4e1396190e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="d9c4cd4777372300d7159b71a91061e6">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="a79470da87fff41005fd63583cbb3532">90ef071cdb881850afe2ac4e139619f3</sys_ui_section>
             <sys_updated_by>carol.rintamaa</sys_updated_by>
             <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
             <sys_user/>
@@ -106,7 +106,7 @@
             <sys_updated_on>2020-04-04 16:56:20</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Proactive Case" name="proactive_case">d9c4cd4777372300d7159b71a91061e6</view>
+            <view display_value="Proactive Case" name="proactive_case">a79470da87fff41005fd63583cbb3532</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

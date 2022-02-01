@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="40a470da87fff41005fd63583cbb35b2" sys_domain="global" table="x_snc_unemployment_payments" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-15 13:03:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ca470da87fff41005fd63583cbb35b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_payments" name="x_snc_unemployment_payments" sys_domain="global" view="Default view">40a470da87fff41005fd63583cbb35b2</sys_ui_form>
+            <sys_ui_section caption="Continued Claim Info" display_value="Continued Claim Info" name="x_snc_unemployment_payments" sys_domain="global" view="Default view">16a702c5db209490aeb456f9dc9619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 13:03:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-15 13:03:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84a470da87fff41005fd63583cbb35b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_payments" name="x_snc_unemployment_payments" sys_domain="global" view="Default view">40a470da87fff41005fd63583cbb35b2</sys_ui_form>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_snc_unemployment_payments" sys_domain="global" view="Default view">1aa702c5db209490aeb456f9dc9619b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 13:03:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-15 13:03:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14a4b0da87fff41005fd63583cbb351d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_payments" name="x_snc_unemployment_payments" sys_domain="global" view="Default view">40a470da87fff41005fd63583cbb35b2</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_unemployment_payments" sys_domain="global" view="Default view">82a702c5db209490aeb456f9dc96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 13:03:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-15 13:03:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ca4b0da87fff41005fd63583cbb3568</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_unemployment_payments" name="x_snc_unemployment_payments" sys_domain="global" view="Default view">40a470da87fff41005fd63583cbb35b2</sys_ui_form>
+            <sys_ui_section caption="Content" display_value="Content" name="x_snc_unemployment_payments" sys_domain="global" view="Default view">c6a702c5db209490aeb456f9dc961945</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 13:03:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_unemployment_payments</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-15 13:03:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40a470da87fff41005fd63583cbb35b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_payments</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_form_sections_40a470da87fff41005fd63583cbb35b2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 13:03:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

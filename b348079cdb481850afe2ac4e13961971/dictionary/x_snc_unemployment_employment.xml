@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employment" max_length="40" name="x_snc_unemployment_employment" sizeclass="69" type="collection">
+        <element label="Approx employees Number" max_length="40" name="approx_employees_number" type="string"/>
+        <element choice="1" label="Being paid by this employer during your time off work?" max_length="40" name="being_paid_by_this_employer_during_your_time_off_work" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Claimant" max_length="32" name="claimant" reference="csm_consumer" type="reference"/>
+        <element choice="1" label="Document you received from this employer" max_length="40" name="document_you_received_from_this_employer" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="W-2" sequence="0" value="w-2"/>
+                <element inactive_on_update="false" label="1099" sequence="1" value="1099"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element label="Employer Name" max_length="40" name="employer_name" type="string"/>
+        <element label="Employer Phone" max_length="40" name="employer_phone" type="phone_number_e164"/>
+        <element choice="1" label="Employer Type" max_length="40" name="employer_type" type="choice">
+            <choice/>
+        </element>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="If you worked under another SSN, enter it here." max_length="40" name="if_you_worked_under_another_ssn_enter_it_here" type="string"/>
+        <element label="Job Title" max_length="40" name="job_title" type="string"/>
+        <element choice="1" label="Method of Payment" max_length="40" name="method_of_payment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cash" sequence="0" value="cash"/>
+                <element inactive_on_update="false" label="Check" sequence="1" value="check"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element label="Pay rate" max_length="20" name="pay_rate" type="currency"/>
+        <element choice="1" label="Primary reason you are no longer with this employer" max_length="40" name="primary_reason_you_are_no_longer_with_this_employer" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Receiving or on a pension from the employer?" max_length="40" name="receiving_or_on_a_pension_from_the_employer" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Secondary reason you are no longer with this employer" max_length="40" name="secondary_reason_you_are_no_longer_with_this_employer" type="string"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element label="Street Address" max_length="40" name="street_address" type="string"/>
+        <element label="Time unit" max_length="5" name="time_unit" type="string"/>
+        <element label="Total wages earned" max_length="20" name="total_wages_earned" type="currency"/>
+        <element label="Type of Work" max_length="40" name="type_of_work" type="string"/>
+        <element label="Unemployment Claim" max_length="32" name="unemployment_claim" reference="x_snc_unemployment_unemployment" type="reference"/>
+        <element label="Work Location City" max_length="40" name="work_location_city" type="string"/>
+        <element label="Work Location State" max_length="40" name="work_location_state" type="string"/>
+        <element label="Zipcode" max_length="40" name="zipcode" type="string"/>
+        <index name="index">
+            <element name="unemployment_claim"/>
+        </index>
+        <index name="index2">
+            <element name="claimant"/>
+        </index>
+    </element>
+</database>

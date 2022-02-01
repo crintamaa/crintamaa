@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Payment Information" section_id="da72f05e87e40110c5f9ed3d0ebb3517" sys_domain="global" table="x_snc_unemployment_unemployment" version="3" view="multiform">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>who_paid_you</element>
+            <position>0</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>aa72f05e87e40110c5f9ed3d0ebb3581</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>method_of_payments</element>
+            <position>1</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>2272f05e87e40110c5f9ed3d0ebb3582</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document_you_received_from_this_employer</element>
+            <position>2</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>a672f05e87e40110c5f9ed3d0ebb3582</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>if_you_worked_under_another_ssn_enter_it_here</element>
+            <position>3</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>2e72f05e87e40110c5f9ed3d0ebb3582</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>how_do_you_want_to_be_paid</element>
+            <position>4</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>a272f05e87e40110c5f9ed3d0ebb3583</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>2a72f05e87e40110c5f9ed3d0ebb3583</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>salary_rate</element>
+            <position>6</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>ae72f05e87e40110c5f9ed3d0ebb3583</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rate_per</element>
+            <position>7</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>2672f05e87e40110c5f9ed3d0ebb3584</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_gross_earnings_this_week</element>
+            <position>8</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>aa72f05e87e40110c5f9ed3d0ebb3584</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_wages_earned</element>
+            <position>9</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>2272f05e87e40110c5f9ed3d0ebb3585</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>do_you_want_to_have_10_of_your_employment_payments_withheld_for_federal_income_t</element>
+            <position>10</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>a672f05e87e40110c5f9ed3d0ebb3585</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>2e72f05e87e40110c5f9ed3d0ebb3585</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>12</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>a272f05e87e40110c5f9ed3d0ebb3586</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>13</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:20</sys_created_on>
+            <sys_id>ea72f05e87e40110c5f9ed3d0ebb3586</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Payment Information" display_value="Payment Information" name="x_snc_unemployment_unemployment" sys_domain="global" view="4a72b05e87e40110c5f9ed3d0ebb35ce">da72f05e87e40110c5f9ed3d0ebb3517</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Payment Information</caption>
+            <header>false</header>
+            <name>x_snc_unemployment_unemployment</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2021-12-22 19:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da72f05e87e40110c5f9ed3d0ebb3517</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_unemployment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_section_da72f05e87e40110c5f9ed3d0ebb3517</sys_update_name>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2021-12-22 19:41:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="multiform" name="multiform">4a72b05e87e40110c5f9ed3d0ebb35ce</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

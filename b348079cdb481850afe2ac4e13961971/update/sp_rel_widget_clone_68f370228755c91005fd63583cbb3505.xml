@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rel_widget_clone">
+    <sp_rel_widget_clone action="INSERT_OR_UPDATE">
+        <child display_value="continued claim Ticket Fields">6cf370228755c91005fd63583cbb3500</child>
+        <cloned>2022-01-29 21:13:19</cloned>
+        <last_validated>2022-01-29 21:13:19</last_validated>
+        <parent display_value="Case Ticket Fields">8877aa31c321120058879f2974d3aeaf</parent>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sp_widget&gt;&lt;category/&gt;&lt;client_script&gt;&lt;![CDATA[function($scope,spModal, spUtil, $window,$location) {
+
+    var c = this;
+	c.hideHeader = c.options.hide_header == "true";
+
+    $scope.$on('record.updated', function(name, data) {
+        spUtil.update($scope);
+    });
+
+    c.openLargeInfo = function(title, content) {
+        spModal.open({
+            title: title,
+            buttons: [],
+            message: content,
+            size: 'lg'
+        });
+    };
+	
+	c.parentRedirect = function(url){
+		$window.location.href = url;
+	};
+	
+	if (c.data.wotTable == "wm_task") {
+		 var wotUrl = "id=fsm_ticket_task&amp;table=wm_task&amp;sys_id="+c.data.wotSysId;
+		 $location.search(wotUrl);
+	}
+	
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;.case-fields{&amp;#13;
+  overflow-wrap: break-word;&amp;#13;
+}&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;case-ticket-fields&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link/&gt;&lt;name&gt;Case Ticket Fields&lt;/name&gt;&lt;option_schema&gt;[{"name":"pickup_msg","section":"other","label":"Pickup message","type":"string"},{"name":"textlimitto","section":"other","default_value":"80","label":"Text Limit To","type":"integer"}]&lt;/option_schema&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles&gt;snc_external,snc_internal&lt;/roles&gt;&lt;script&gt;&lt;![CDATA[(function(){
+	data.wotTable = "";
+	var wottableName = "";
+	wottableName = $sp.getParameter("table");
+	if(wottableName=="wm_task"){
+		data.wotTable = "wm_task";
+		data.wotSysId = $sp.getParameter("sys_id");
+	}
+	var gr = $sp.getRecord();
+	var table = gr.getTableName();
+	data.canRead = gr.canRead();	
+	if (!data.canRead) 
+		return;
+	var page_id = $sp.getParameter("id");
+	data.page_id = page_id;
+	var agent = "";
+	var a = $sp.getField(gr, 'assigned_to');
+	if (a != null)
+		agent = a.display_value;
+	var list = "number,assigned_to,priority,state,contract,entitlement";
+	
+	var consumer = $sp.getField(gr, 'consumer');
+	if(consumer != null)
+		list += ",consumer";
+	else
+		list += ",account,contact";
+	
+	if(table == 'sn_customerservice_case'){		
+		list += ",asset,product";						
+	}
+	else if (table == 'csm_order_case')
+		list += ",order_case";
+	else if(table == 'customer_project_task')
+		list += ",parent,short_description,start_date,end_date,work_start,work_end,status,percent_complete";
+	
+	var project = $sp.getField(gr,'project');
+	if(project != null)
+		list += ",project";
+	var projectTask = $sp.getField(gr,'project_task');
+	if(projectTask != null)
+		list += ",project_task";
+	
+	if(table == 'sn_customerservice_task')
+		list = "number,assigned_to,parent,state,description";
+	
+	if (gr.getValue("sys_mod_count") &gt; 0)
+		list += ",sys_updated_on";
+	
+	if(table == 'sn_complaint_case')
+		{
+			list = "number,assigned_to,state,stage,priority" + ((consumer != null) ? ",consumer" : ",account,contact") + ",complaint_type,product,location,issue_occured_at,sys_updated_on,expected_outcome,description";
+		} else if(table == 'sn_onboarding_case')
+		{
+			list = "number,assigned_to,state,stage,priority" + (consumer != null ? ",consumer" : ",account,contact") + ",product,sys_updated_on,description";
+		}
+	
+	var cols = list.split(',');
+	var fields = [];
+	
+	for (i = 0; i &lt; cols.length; ++i) {
+		var field = $sp.getField(gr,cols[i]);
+    fields.push({
+			"label": field ? field.label : "",
+			"value":field ? field.value : "",
+			"display_value":field ? field.display_value : "",
+			"type":field ? field.type : "",
+			"column_name": cols[i]
+		});
+	}
+
+	data.tableLabel = options.title || gr.getLabel();
+	data.fields = fields;
+	data.agent = agent;
+	data.table = table;
+	data.sys_id = gr.getUniqueValue();
+	data.limit = options.textlimitto;
+	data.parent_case_url = "?id=csm_ticket&amp;view=csp"+"&amp;table="+gr.parent.sys_class_name+"&amp;sys_id="+gr.parent;
+	
+	var state = gr.getValue('state');
+	if(input)
+		data.hide_info_messages = input.hide_info_messages?true:false;
+	else
+		data.hide_info_messages = options.hide_info_messages == 'true';
+	if(state == '18' &amp;&amp; !data.hide_info_messages)
+		gs.addInfoMessage(gs.getMessage("This case requires additional information from you."));
+})();
+
+]]&gt;&lt;/script&gt;&lt;servicenow&gt;true&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2016-02-14 01:55:28&lt;/sys_created_on&gt;&lt;sys_id&gt;8877aa31c321120058879f2974d3aeaf&lt;/sys_id&gt;&lt;sys_mod_count&gt;38&lt;/sys_mod_count&gt;&lt;sys_name&gt;Case Ticket Fields&lt;/sys_name&gt;&lt;sys_package display_value="Customer Service Base Portal" source="com.glide.service-portal.customer-service-base"&gt;5ac6aabe1b036010003f54292d4bcb19&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_8877aa31c321120058879f2974d3aeaf&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-19 06:19:50&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div ng-if="data.canRead" class="panel panel-primary b"&gt;
+	&lt;div class="panel-heading" ng-if="::!c.hideHeader"&gt;
+		&lt;h2 class="panel-title"&gt;${{{data.tableLabel}} details}&lt;/h2&gt;
+	&lt;/div&gt;
+	&lt;div class="panel-body"&gt;
+		&lt;div ng-if="data.fields.length &gt; 0"&gt;
+			&lt;div class="row case-fields"&gt;
+				&lt;div ng-class="{'col-md-6' : field.column_name != 'description' &amp;&amp; field.column_name != 'expected_outcome', {{::field.column_name}}: c.options.add_columnname_as_class &amp;&amp; c.options.add_columnname_as_class == 'true'}" class="col-sm-12 col-xs-6 m-b" ng-repeat="field in data.fields" 
+             ng-if="field.value &amp;&amp; (field.type != 'decimal' || field.type == 'decimal' &amp;&amp; field.value != 0)" &gt;
+					&lt;label class="m-n"&gt;
+						&lt;strong&gt;{{field.label}}&lt;/strong&gt;
+					&lt;/label&gt;
+					&lt;div ng-if="field.column_name == 'description' || field.column_name == 'expected_outcome'"&gt;
+						&lt;div ng-if="field.display_value.length &gt; data.limit"&gt;{{ field.display_value | limitTo: data.limit }} ...
+							&lt;span aria-live="polite" class="m-b text-overflow-ellipsis"&gt;
+								&lt;a href="javascript:void(0)" 
+                  ng-click="c.openLargeInfo(${field.label}, ${field.display_value})"&gt;
+                  Show more&lt;/a&gt;
+							&lt;/span&gt;
+						&lt;/div&gt;
+						&lt;div ng-if="field.display_value.length &lt;= data.limit"&gt;{{field.display_value}}&lt;/div&gt;
+					&lt;/div&gt;
+                  	&lt;div ng-if="c.data.page_id== 'csm_case_task_ticket' &amp;&amp; field.column_name == 'parent'"&gt;
+						&lt;div&gt;
+							&lt;a href="javascript:void(0)" ng-click="c.parentRedirect(c.data.parent_case_url)"&gt;
+                              {{field.display_value}}
+                          &lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+					&lt;div ng-if="field.column_name != 'description' &amp;&amp; field.column_name != 'expected_outcome' &amp;&amp; field.column_name != 'parent'"&gt;
+						&lt;span ng-switch="field.type"&gt;
+							&lt;div ng-switch-when="glide_date_time" title="{{field.display_value}}"&gt;
+								&lt;sn-time-ago timestamp="::field.value" /&gt;
+							&lt;/div&gt;
+							&lt;div ng-switch-default &gt;{{field.display_value}}&lt;/div&gt;
+						&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;</payload>
+        <sys_class_name>sp_rel_widget_clone</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 21:13:19</sys_created_on>
+        <sys_id>68f370228755c91005fd63583cbb3505</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6cf370228755c91005fd63583cbb3500</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sp_rel_widget_clone_68f370228755c91005fd63583cbb3505</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-29 21:13:19</sys_updated_on>
+    </sp_rel_widget_clone>
+</record_update>

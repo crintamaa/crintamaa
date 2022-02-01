@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_action_assignment_action_config">
+    <sys_ux_m2m_action_assignment_action_config action="INSERT_OR_UPDATE">
+        <action_assignment display_value="create_case_unemploy">689c3c9287a4011005fd63583cbb35fc</action_assignment>
+        <action_configuration display_value="CSM/FSM Configurable Workspace Action Config">46e658c35322101043d7ddeeff7b12b4</action_configuration>
+        <sys_class_name>sys_ux_m2m_action_assignment_action_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 20:26:43</sys_created_on>
+        <sys_id>1fdcb01687a4011005fd63583cbb3508</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sys_ux_m2m_action_assignment_action_config_1fdcb01687a4011005fd63583cbb3508</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 20:26:43</sys_updated_on>
+    </sys_ux_m2m_action_assignment_action_config>
+</record_update>

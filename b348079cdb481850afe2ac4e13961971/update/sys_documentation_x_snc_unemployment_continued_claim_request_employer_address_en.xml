@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="employer_address" label="Employer Address" language="en" table="x_snc_unemployment_continued_claim_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>employer_address</element>
+            <help/>
+            <hint/>
+            <label>Employer Address</label>
+            <language>en</language>
+            <name>x_snc_unemployment_continued_claim_request</name>
+            <plural>Employer Address</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 22:38:56</sys_created_on>
+            <sys_id>28d4cfdf8758415405fd63583cbb354f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Employer Address</sys_name>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_unemployment_continued_claim_request_employer_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 22:38:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="sn_customerservice_case" label="Adjudication Case" max_length="40" name="x_snc_unemployment_adjudication_case" sizeclass="21" type="collection">
+        <element label="Unemployment Claim #" max_length="32" name="unemployment_claim" reference="x_snc_unemployment_unemployment" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="u_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="u_start_date" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Contact information" section_id="20742a9f8714415405fd63583cbb3533" sys_domain="global" table="x_snc_unemployment_unemployment" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>secondary_phone</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>0e1c26938794415405fd63583cbb3519</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street_address</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>821c26938794415405fd63583cbb351a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>secondary_street_address</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>0a1c26938794415405fd63583cbb351a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>8e1c26938794415405fd63583cbb351a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip_code</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>061c26938794415405fd63583cbb351b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_this_your_mailing_address</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>8a1c26938794415405fd63583cbb351b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email_address</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>021c26938794415405fd63583cbb351c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>height_feet</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>861c26938794415405fd63583cbb351c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>height_inches</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>0e1c26938794415405fd63583cbb351c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>821c26938794415405fd63583cbb351d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>license_type</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>0a1c26938794415405fd63583cbb351d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>driver_s_license_or_state_id_state</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>8e1c26938794415405fd63583cbb351d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>license_number</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>061c26938794415405fd63583cbb351e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_issues</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>8a1c26938794415405fd63583cbb351e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expires</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>021c26938794415405fd63583cbb351f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>861c26938794415405fd63583cbb351f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>would_you_like_to_receive_texts</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>0e1c26938794415405fd63583cbb351f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>how_may_we_contact_you</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:50:54</sys_created_on>
+            <sys_id>821c26938794415405fd63583cbb3520</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact information" display_value="Contact information" name="x_snc_unemployment_unemployment" sys_domain="global" view="efaff9961b072010d63811fc2d4bcb8a">20742a9f8714415405fd63583cbb3533</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:50:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Contact information</caption>
+            <header>false</header>
+            <name>x_snc_unemployment_unemployment</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-13 20:17:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20742a9f8714415405fd63583cbb3533</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_unemployment_unemployment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+            <sys_update_name>sys_ui_section_20742a9f8714415405fd63583cbb3533</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-13 20:17:29</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">efaff9961b072010d63811fc2d4bcb8a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

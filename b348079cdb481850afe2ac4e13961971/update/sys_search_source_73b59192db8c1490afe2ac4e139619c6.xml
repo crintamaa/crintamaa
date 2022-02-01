@@ -2,7 +2,9 @@
     <sys_search_source action="INSERT_OR_UPDATE">
         <active>false</active>
         <condition/>
+        <group/>
         <name>Unemployment</name>
+        <roles/>
         <source_table>x_snc_unemployment_unemployment</source_table>
         <sys_class_name>sys_search_source</sys_class_name>
         <sys_created_by>carol.rintamaa</sys_created_by>

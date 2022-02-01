@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Copy of Unemployment form (1) - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="copy_of_unemployment_form_1">014c33e387d8055405fd63583cbb350f</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-14 21:19:40</sys_created_on>
+        <sys_id>8d4c33e387d8055405fd63583cbb3512</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Unemployment form (1) - Container 1</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_update_name>sp_container_8d4c33e387d8055405fd63583cbb3512</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-14 21:19:40</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</application>
+        <file_path/>
+        <instance_id>d4be610cdbb7301049eac597059619bd</instance_id>
+        <instance_name>uidemorome</instance_name>
+        <name>sp_container_8d4c33e387d8055405fd63583cbb3512</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Copy of Unemployment form (1) - Container 1</name><order>1</order><sp_page display_value="copy_of_unemployment_form_1">014c33e387d8055405fd63583cbb350f</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-14 21:19:40</sys_created_on><sys_id>8d4c33e387d8055405fd63583cbb3512</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Copy of Unemployment form (1) - Container 1</sys_name><sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package><sys_policy/><sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope><sys_update_name>sp_container_8d4c33e387d8055405fd63583cbb3512</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-14 21:19:40</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1757542222</payload_hash>
+        <record_name>Copy of Unemployment form (1) - Container 1</record_name>
+        <reverted_from/>
+        <source>adac291e87f7381005fd63583cbb3542</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-14 21:19:40</sys_created_on>
+        <sys_id>c14c3fe387d8055405fd63583cbb3579</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dbad0b65e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-14 21:19:40</sys_updated_on>
+        <type>Container</type>
+        <update_guid>c94c3fe391d80554b0eca61145e25a78</update_guid>
+        <update_guid_history>c94c3fe391d80554b0eca61145e25a78:1757542222</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of Unemployment form (1) - Container 1">c07cf32787d8055405fd63583cbb350a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-14 21:20:25</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>6838efbeeff8467c9b31f4767328a310</sys_id>
+        <sys_metadata>8d4c33e387d8055405fd63583cbb3512</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Unemployment form (1) - Container 1</sys_name>
+        <sys_package display_value="Unemployment application" source="x_snc_unemployment">b348079cdb481850afe2ac4e13961971</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unemployment application">b348079cdb481850afe2ac4e13961971</sys_scope>
+        <sys_scope_delete display_value="">74a4ac0ed3b2415ab049d7a0dd6b1444</sys_scope_delete>
+        <sys_update_name>sp_container_8d4c33e387d8055405fd63583cbb3512</sys_update_name>
+        <sys_update_version display_value="sp_container_8d4c33e387d8055405fd63583cbb3512">c14c3fe387d8055405fd63583cbb3579</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-14 21:20:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
